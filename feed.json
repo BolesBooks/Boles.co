@@ -7,10 +7,50 @@
 	"items": [
 		
 			{
+				"id": "http://boles.micro.blog/2023/06/09/sometimes-its-a.html",
+				
+				"content_html": "<p>Sometimes, it&rsquo;s a good thing when the walls start closing in on us. #AI #Midjourney</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "Sometimes, it's a good thing when the walls start closing in on us. #AI #Midjourney \n\n<img src=\"uploads/2023/3043028a0b.png\" width=\"600\" height=\"600\" alt=\"Sculpted walls closing in from the outside.\">\n",
+				"date_published": "2023-06-09T14:21:42-04:00",
+				"url": "https://boles.co/2023/06/09/sometimes-its-a.html"
+			},
+			{
+				"id": "http://boles.micro.blog/2023/06/08/the-king-of.html",
+				
+				"content_html": "<p>The King of the Jungle is rarely overrun by a greater beauty. #AI #Midjourney</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "The King of the Jungle is rarely overrun by a greater beauty. #AI #Midjourney\n\n<img src=\"uploads/2023/db606711ab.png\" width=\"600\" height=\"600\" alt=\"Woman surrounded by Cats.\">\n",
+				"date_published": "2023-06-08T15:06:52-04:00",
+				"url": "https://boles.co/2023/06/08/the-king-of.html"
+			},
+			{
+				"id": "http://boles.micro.blog/2023/06/07/not-even-steampunk.html",
+				
+				"content_html": "<p>Not even Steampunk Sisyphus can beat the rock! #AI #Midjourney #Myth</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "Not even Steampunk Sisyphus can beat the rock! #AI #Midjourney #Myth\n\n<img src=\"uploads/2023/b76bf0a694.png\" width=\"600\" height=\"600\" alt=\"Steampunk Sisyphus\">\n",
+				"date_published": "2023-06-07T12:40:10-04:00",
+				"url": "https://boles.co/2023/06/07/not-even-steampunk.html"
+			},
+			{
+				"id": "http://boles.micro.blog/2023/06/06/we-flay-the.html",
+				
+				"content_html": "<p>We flay the ties that bind only to discover in our fitful escape that we are still braided by marionette strings controlled by &ndash; some other else &ndash; hanging us forward to drop us backward. #AI #Midjourney</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "We flay the ties that bind only to discover in our fitful escape that we are still braided by marionette strings controlled by -- some other else -- hanging us forward to drop us backward. #AI #Midjourney \n\n<img src=\"uploads/2023/2e4b0286a6.png\" width=\"600\" height=\"600\" alt=\"Space person hanging by an atomic string.\">\n",
+				"date_published": "2023-06-06T12:42:33-04:00",
+				"url": "https://boles.co/2023/06/06/we-flay-the.html"
+			},
+			{
+				"id": "http://boles.micro.blog/2023/06/05/life-begins-in.html",
+				
+				"content_html": "<p>Life begins in explosion and ends in fire. #AI #Midjourney</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "Life begins in explosion and ends in fire. #AI #Midjourney\n\n<img src=\"uploads/2023/8e91351c4d.png\" width=\"600\" height=\"600\" alt=\"Exploding house on fire.\">\n",
+				"date_published": "2023-06-05T12:49:19-04:00",
+				"url": "https://boles.co/2023/06/05/life-begins-in.html"
+			},
+			{
 				"id": "http://boles.micro.blog/2023/06/04/im-experimenting-with.html",
 				
 				"content_html": "<p>I&rsquo;m experimenting with a new AI Art Bot today &ndash; Bluewillow (it&rsquo;s also on my Discord server if you want to try it out) &ndash; and this image was the first result for a &ldquo;La Traviata Opera&rdquo; prompt. Hmm. This is going to be an interesting new relationship! #AI #Bluewillow</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "I'm experimenting with a new AI Art Bot today -- Bluewillow (it's also on my Discord server if you want to try it out) -- and this image was the first result for a \"La Traviata Opera\" prompt. Hmm. This is going to be an interesting new relationship! #AI #Bluewillow\n\n<img src=\"uploads/2023/edf721a0a5.jpg\" width=\"600\" height=\"600\" alt=\"Brunette woman looking perplexed.\">\n",
+				"content_text": "I'm experimenting with a new AI Art Bot today -- Bluewillow (it's also on my Discord server if you want to try it out) -- and this image was the first result for a \"La Traviata Opera\" prompt. Hmm. This is going to be an interesting new relationship! #AI #Bluewillow\n\n<img src=\"https://cdn.uploads.micro.blog/97682/2023/edf721a0a5.jpg\" width=\"600\" height=\"600\" alt=\"Brunette woman looking perplexed.\">\n",
 				"date_published": "2023-06-04T13:09:33-04:00",
 				"url": "https://boles.co/2023/06/04/im-experimenting-with.html"
 			},
@@ -18,7 +58,7 @@
 				"id": "http://boles.micro.blog/2023/06/03/we-are-always.html",
 				
 				"content_html": "<p>We are always the most confident right before the fall. #AI #Midjourney</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "We are always the most confident right before the fall. #AI #Midjourney \n\n<img src=\"uploads/2023/9126edfffd.png\" width=\"600\" height=\"600\" alt=\"A golden statue about to topple\">\n",
+				"content_text": "We are always the most confident right before the fall. #AI #Midjourney \n\n<img src=\"https://cdn.uploads.micro.blog/97682/2023/9126edfffd.png\" width=\"600\" height=\"600\" alt=\"A golden statue about to topple\">\n",
 				"date_published": "2023-06-03T12:25:13-04:00",
 				"url": "https://boles.co/2023/06/03/we-are-always.html"
 			},
@@ -26,7 +66,7 @@
 				"id": "http://boles.micro.blog/2023/06/02/lucky-oconnell-david.html",
 				
 				"content_html": "<p>Lucky O&rsquo;Connell &ndash; David Boles, Blogs dog author who is actually a dog &ndash; wishes you, and yours, a Happy National Donut Day (along with his good friend, Frank!)! #Donut #Sinatra #Dog #Lucky</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Lucky O'Connell -- David Boles, Blogs dog author who is actually a dog -- wishes you, and yours, a Happy National Donut Day (along with his good friend, Frank!)! #Donut #Sinatra #Dog #Lucky \n\n<img src=\"uploads/2023/e1502aa7a9.jpg\" width=\"600\" height=\"600\" alt=\"Frank Sinatra and Lucky O'Connell sharing a donut.\">\n",
+				"content_text": "Lucky O'Connell -- David Boles, Blogs dog author who is actually a dog -- wishes you, and yours, a Happy National Donut Day (along with his good friend, Frank!)! #Donut #Sinatra #Dog #Lucky \n\n<img src=\"https://cdn.uploads.micro.blog/97682/2023/e1502aa7a9.jpg\" width=\"600\" height=\"600\" alt=\"Frank Sinatra and Lucky O'Connell sharing a donut.\">\n",
 				"date_published": "2023-06-02T11:12:50-04:00",
 				"url": "https://boles.co/2023/06/02/lucky-oconnell-david.html"
 			},
@@ -34,17 +74,9 @@
 				"id": "http://boles.micro.blog/2023/06/01/now-is-the.html",
 				
 				"content_html": "<p>Now is the time to fight for Deaf accessibility in performance at The Metropolitan Opera in NYC! Accessibility belongs to all! Read our article and react and respond! #Deaf #ASL #Opera #MetOpera #NYC <a href=\"https://bolesblogs.com/2023/06/01/will-the-metropolitan-opera-allow-the-deaf-to-sing/\">bolesblogs.com/2023/06/0&hellip;</a></p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Now is the time to fight for Deaf accessibility in performance at The Metropolitan Opera in NYC! Accessibility belongs to all! Read our article and react and respond! #Deaf #ASL #Opera #MetOpera #NYC [bolesblogs.com/2023/06/0...](https://bolesblogs.com/2023/06/01/will-the-metropolitan-opera-allow-the-deaf-to-sing/)\n\n<img src=\"uploads/2023/ecf73bf0e1.png\" width=\"600\" height=\"600\" alt=\"ASL for Opera logo. Red hands on a pale face.\">\n",
+				"content_text": "Now is the time to fight for Deaf accessibility in performance at The Metropolitan Opera in NYC! Accessibility belongs to all! Read our article and react and respond! #Deaf #ASL #Opera #MetOpera #NYC [bolesblogs.com/2023/06/0...](https://bolesblogs.com/2023/06/01/will-the-metropolitan-opera-allow-the-deaf-to-sing/)\n\n<img src=\"https://cdn.uploads.micro.blog/97682/2023/ecf73bf0e1.png\" width=\"600\" height=\"600\" alt=\"ASL for Opera logo. Red hands on a pale face.\">\n",
 				"date_published": "2023-06-01T12:13:44-04:00",
 				"url": "https://boles.co/2023/06/01/now-is-the.html"
-			},
-			{
-				"id": "http://boles.micro.blog/2023/05/31/sometimes-a-flex.html",
-				
-				"content_html": "<p>Sometimes a flex is more than just a muscle. #AI #Midjourney</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Sometimes a flex is more than just a muscle. #AI #Midjourney \n\n<img src=\"uploads/2023/0a54c3a342.png\" width=\"600\" height=\"600\" alt=\"Blueprint of a flexed bicep.\">\n",
-				"date_published": "2023-05-31T13:59:14-04:00",
-				"url": "https://boles.co/2023/05/31/sometimes-a-flex.html"
 			},
 			{
 				"id": "http://boles.micro.blog/2023/05/30/the-salvation-we.html",
@@ -130,7 +162,7 @@
 				"id": "http://boles.micro.blog/2023/05/20/pareidolia-is-more.html",
 				
 				"content_html": "<p>Pareidolia is more than just a face in a cloud! #AI #Midjourney</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Pareidolia is more than just a face in a cloud! #AI #Midjourney  \n\n<img src=\"uploads/2023/36b0f85df5.png\" width=\"600\" height=\"600\" alt=\"Two televisions making a face in space.\">\n",
+				"content_text": "Pareidolia is more than just a face in a cloud! #AI #Midjourney  \n\n<img src=\"https://cdn.uploads.micro.blog/97682/2023/36b0f85df5.png\" width=\"600\" height=\"600\" alt=\"Two televisions making a face in space.\">\n",
 				"date_published": "2023-05-20T12:29:43-04:00",
 				"url": "https://boles.co/2023/05/20/pareidolia-is-more.html"
 			},
@@ -146,7 +178,7 @@
 				"id": "http://boles.micro.blog/2023/05/18/we-rise-to.html",
 				
 				"content_html": "<p>We rise to meet our tall fears, and to escape to new lowlands &ndash; all with our hidden tremors buried deep within us, waiting for discovery. #AI #Midjourney</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "We rise to meet our tall fears, and to escape to new lowlands -- all with our hidden tremors buried deep within us, waiting for discovery. #AI #Midjourney \n\n<img src=\"uploads/2023/2395d662e3.png\" width=\"600\" height=\"600\" alt=\"Tall ship sailing. \">\n",
+				"content_text": "We rise to meet our tall fears, and to escape to new lowlands -- all with our hidden tremors buried deep within us, waiting for discovery. #AI #Midjourney \n\n<img src=\"https://cdn.uploads.micro.blog/97682/2023/2395d662e3.png\" width=\"600\" height=\"600\" alt=\"Tall ship sailing. \">\n",
 				"date_published": "2023-05-18T15:29:34-04:00",
 				"url": "https://boles.co/2023/05/18/we-rise-to.html"
 			},
@@ -154,7 +186,7 @@
 				"id": "http://boles.micro.blog/2023/05/17/we-live-in.html",
 				
 				"content_html": "<p>We live in moments of incapacitation; we only move forward when the danger becomes us. #AI #Midjourney</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "We live in moments of incapacitation; we only move forward when the danger becomes us. #AI #Midjourney  \n\n<img src=\"uploads/2023/439305f58a.png\" width=\"600\" height=\"600\" alt=\"Person in a red coat and a black gas mask.\">\n",
+				"content_text": "We live in moments of incapacitation; we only move forward when the danger becomes us. #AI #Midjourney  \n\n<img src=\"https://cdn.uploads.micro.blog/97682/2023/439305f58a.png\" width=\"600\" height=\"600\" alt=\"Person in a red coat and a black gas mask.\">\n",
 				"date_published": "2023-05-17T14:48:56-04:00",
 				"url": "https://boles.co/2023/05/17/we-live-in.html"
 			},
@@ -162,7 +194,7 @@
 				"id": "http://boles.micro.blog/2023/05/16/we-look-to.html",
 				
 				"content_html": "<p>We look to the stars, not to find ourselves, but to discover the lives of others who lived before us and to learn about those who shall learn to live without us. #AI #Midjourney</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "We look to the stars, not to find ourselves, but to discover the lives of others who lived before us and to learn about those who shall learn to live without us. #AI #Midjourney \n\n<img src=\"uploads/2023/1453fd11ce.png\" width=\"600\" height=\"600\" alt=\"Astrophotography AI imagination.\">\n",
+				"content_text": "We look to the stars, not to find ourselves, but to discover the lives of others who lived before us and to learn about those who shall learn to live without us. #AI #Midjourney \n\n<img src=\"https://cdn.uploads.micro.blog/97682/2023/1453fd11ce.png\" width=\"600\" height=\"600\" alt=\"Astrophotography AI imagination.\">\n",
 				"date_published": "2023-05-16T15:14:49-04:00",
 				"url": "https://boles.co/2023/05/16/we-look-to.html"
 			},
@@ -170,7 +202,7 @@
 				"id": "http://boles.micro.blog/2023/05/15/when-the-forest.html",
 				
 				"content_html": "<p>When the forest becomes the trees. #AI #Midjourney #Guitars #Gibson #LesPaul</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "When the forest becomes the trees. #AI #Midjourney #Guitars #Gibson #LesPaul\n\n<img src=\"uploads/2023/6731cbb60c.png\" width=\"600\" height=\"600\" alt=\"Three Les Paul Gibson guitars in the forest with the forest.\">\n",
+				"content_text": "When the forest becomes the trees. #AI #Midjourney #Guitars #Gibson #LesPaul\n\n<img src=\"https://cdn.uploads.micro.blog/97682/2023/6731cbb60c.png\" width=\"600\" height=\"600\" alt=\"Three Les Paul Gibson guitars in the forest with the forest.\">\n",
 				"date_published": "2023-05-15T13:19:30-04:00",
 				"url": "https://boles.co/2023/05/15/when-the-forest.html"
 			},
@@ -178,7 +210,7 @@
 				"id": "http://boles.micro.blog/2023/05/14/to-close-the.html",
 				
 				"content_html": "<p>To close the eyes is to trust the mind. #AI #Midjourney</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "To close the eyes is to trust the mind. #AI #Midjourney \n\n<img src=\"uploads/2023/7c83ae0045.png\" width=\"600\" height=\"600\" alt=\"A woman's face surrounded by a wreath of flowers.\">\n",
+				"content_text": "To close the eyes is to trust the mind. #AI #Midjourney \n\n<img src=\"https://cdn.uploads.micro.blog/97682/2023/7c83ae0045.png\" width=\"600\" height=\"600\" alt=\"A woman's face surrounded by a wreath of flowers.\">\n",
 				"date_published": "2023-05-14T12:22:27-04:00",
 				"url": "https://boles.co/2023/05/14/to-close-the.html"
 			},
@@ -186,7 +218,7 @@
 				"id": "http://boles.micro.blog/2023/05/13/the-world-as.html",
 				
 				"content_html": "<p>The world as we think we know it spins to disorient knowledge and to challenge all acclimation. #AI #Midjourney</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "The world as we think we know it spins to disorient knowledge and to challenge all acclimation. #AI #Midjourney \n\n<img src=\"https://cdn.uploads.micro.blog/97682/2023/e1377fca3b.png\" width=\"600\" height=\"600\" alt=\"The globe in a crest. \">\n",
+				"content_text": "The world as we think we know it spins to disorient knowledge and to challenge all acclimation. #AI #Midjourney \n\n<img src=\"uploads/2023/e1377fca3b.png\" width=\"600\" height=\"600\" alt=\"The globe in a crest. \">\n",
 				"date_published": "2023-05-13T15:08:00-04:00",
 				"url": "https://boles.co/2023/05/13/the-world-as.html"
 			},
@@ -194,7 +226,7 @@
 				"id": "http://boles.micro.blog/2023/05/12/every-book-burns.html",
 				
 				"content_html": "<p>Every book burns twice. First, when you read it. Second, when you tell someone about it. #AI #Midjourney #Books #Reading #Writing</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Every book burns twice. First, when you read it. Second, when you tell someone about it. #AI #Midjourney #Books #Reading #Writing \n\n<img src=\"https://cdn.uploads.micro.blog/97682/2023/2b8cea5872.png\" width=\"600\" height=\"600\" alt=\"Pages of a burning book.\">\n",
+				"content_text": "Every book burns twice. First, when you read it. Second, when you tell someone about it. #AI #Midjourney #Books #Reading #Writing \n\n<img src=\"uploads/2023/2b8cea5872.png\" width=\"600\" height=\"600\" alt=\"Pages of a burning book.\">\n",
 				"date_published": "2023-05-12T12:28:36-04:00",
 				"url": "https://boles.co/2023/05/12/every-book-burns.html"
 			},
@@ -202,7 +234,7 @@
 				"id": "http://boles.micro.blog/2023/05/11/when-the-memes.html",
 				
 				"content_html": "<p>When the memes of us turn deadly, we only recognize what was &ndash; and not what we will become &ndash; when the circle closes. #AI #Midjourney</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "When the memes of us turn deadly, we only recognize what was -- and not what we will become -- when the circle closes. #AI #Midjourney \n\n<img src=\"https://cdn.uploads.micro.blog/97682/2023/4cf63de226.png\" width=\"600\" height=\"600\" alt=\"Memes of us turn deadly.\">\n",
+				"content_text": "When the memes of us turn deadly, we only recognize what was -- and not what we will become -- when the circle closes. #AI #Midjourney \n\n<img src=\"uploads/2023/4cf63de226.png\" width=\"600\" height=\"600\" alt=\"Memes of us turn deadly.\">\n",
 				"date_published": "2023-05-11T14:39:38-04:00",
 				"url": "https://boles.co/2023/05/11/when-the-memes.html"
 			},
@@ -210,7 +242,7 @@
 				"id": "http://boles.micro.blog/2023/05/10/we-become-our.html",
 				
 				"content_html": "<p>We become our celebrations. Our celebrations are moral warnings. Our moral warnings fight the best of us. #AI #Midjourney #Setsubun</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "We become our celebrations. Our celebrations are moral warnings. Our moral warnings fight the best of us. #AI #Midjourney #Setsubun\n\n<img src=\"https://cdn.uploads.micro.blog/97682/2023/e91902995a.png\" width=\"600\" height=\"600\" alt=\"Setsubun festival with a giant red mask in a crowd.\">\n",
+				"content_text": "We become our celebrations. Our celebrations are moral warnings. Our moral warnings fight the best of us. #AI #Midjourney #Setsubun\n\n<img src=\"uploads/2023/e91902995a.png\" width=\"600\" height=\"600\" alt=\"Setsubun festival with a giant red mask in a crowd.\">\n",
 				"date_published": "2023-05-10T14:55:01-04:00",
 				"url": "https://boles.co/2023/05/10/we-become-our.html"
 			},
@@ -218,7 +250,7 @@
 				"id": "http://boles.micro.blog/2023/05/09/we-lift-our.html",
 				
 				"content_html": "<p>We lift our faces to the sun, and we pray to keep the void safe and complete. #AI #Midjourney #Cats #CatsOfMastodon</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "We lift our faces to the sun, and we pray to keep the void safe and complete. #AI #Midjourney #Cats #CatsOfMastodon \n\n<img src=\"https://cdn.uploads.micro.blog/97682/2023/0afb55ca9e.png\" width=\"600\" height=\"600\" alt=\"Praying with a void.\">\n",
+				"content_text": "We lift our faces to the sun, and we pray to keep the void safe and complete. #AI #Midjourney #Cats #CatsOfMastodon \n\n<img src=\"uploads/2023/0afb55ca9e.png\" width=\"600\" height=\"600\" alt=\"Praying with a void.\">\n",
 				"date_published": "2023-05-09T15:48:53-04:00",
 				"url": "https://boles.co/2023/05/09/we-lift-our.html"
 			},
@@ -234,7 +266,7 @@
 				"id": "http://boles.micro.blog/2023/05/07/the-power-of.html",
 				
 				"content_html": "<p>The power of thought begins in the acquisition of the word in meaning. The shared thoughts of others make us blink, and stare, into the wonderment of another mind alive. #AI #Midjourney</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "The power of thought begins in the acquisition of the word in meaning. The shared thoughts of others make us blink, and stare, into the wonderment of another mind alive. #AI #Midjourney \n\n<img src=\"https://cdn.uploads.micro.blog/97682/2023/5efc21cab9.png\" width=\"600\" height=\"600\" alt=\"A young woman in a green dress reading.\">\n",
+				"content_text": "The power of thought begins in the acquisition of the word in meaning. The shared thoughts of others make us blink, and stare, into the wonderment of another mind alive. #AI #Midjourney \n\n<img src=\"uploads/2023/5efc21cab9.png\" width=\"600\" height=\"600\" alt=\"A young woman in a green dress reading.\">\n",
 				"date_published": "2023-05-07T12:24:12-04:00",
 				"url": "https://boles.co/2023/05/07/the-power-of.html",
 				"tags": ["AI","Boles","Writing"]
@@ -243,7 +275,7 @@
 				"id": "http://boles.micro.blog/2023/05/06/the-weight-of.html",
 				
 				"content_html": "<p>The weight of imagination is only lifted by the anticipation of the relief of the release of thought. #AI #Midjourney</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "The weight of imagination is only lifted by the anticipation of the relief of the release of thought. #AI #Midjourney \n\n<img src=\"https://cdn.uploads.micro.blog/97682/2023/149dd31aa7.png\" width=\"600\" height=\"600\" alt=\"A woman with a cloud filled with thoughts hanigng above her. \">\n",
+				"content_text": "The weight of imagination is only lifted by the anticipation of the relief of the release of thought. #AI #Midjourney \n\n<img src=\"uploads/2023/149dd31aa7.png\" width=\"600\" height=\"600\" alt=\"A woman with a cloud filled with thoughts hanigng above her. \">\n",
 				"date_published": "2023-05-06T14:35:16-04:00",
 				"url": "https://boles.co/2023/05/06/the-weight-of.html"
 			},
@@ -251,7 +283,7 @@
 				"id": "http://boles.micro.blog/2023/05/05/we-are-mystified.html",
 				
 				"content_html": "<p>We are mystified by what we do not know, or recognize, and instead of welcoming the new, and the foreign, we turn away, unlucky, and unwilling, to experience something new and bountiful. #AI #Midjourney</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "We are mystified by what we do not know, or recognize, and instead of welcoming the new, and the foreign, we turn away, unlucky, and unwilling, to experience something new and bountiful. #AI #Midjourney \n\n<img src=\"https://cdn.uploads.micro.blog/97682/2023/25b24df1d8.png\" width=\"600\" height=\"600\" alt=\"Triple eye of fear. One blue eye. One Red eye. A third red eye.\">\n",
+				"content_text": "We are mystified by what we do not know, or recognize, and instead of welcoming the new, and the foreign, we turn away, unlucky, and unwilling, to experience something new and bountiful. #AI #Midjourney \n\n<img src=\"uploads/2023/25b24df1d8.png\" width=\"600\" height=\"600\" alt=\"Triple eye of fear. One blue eye. One Red eye. A third red eye.\">\n",
 				"date_published": "2023-05-05T15:25:56-04:00",
 				"url": "https://boles.co/2023/05/05/we-are-mystified.html"
 			},
@@ -259,7 +291,7 @@
 				"id": "http://boles.micro.blog/2023/05/04/the-royalty-is.html",
 				
 				"content_html": "<p>The royalty is not in the crown, or even the golden coronation. The royalty is in the attitude of converting the rise from the litter box to the throne. #AI #Midjourney #Cats</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "The royalty is not in the crown, or even the golden coronation. The royalty is in the attitude of converting the rise from the litter box to the throne. #AI #Midjourney #Cats \n\n<img src=\"https://cdn.uploads.micro.blog/97682/2023/c0c3ea8fbd.png\" width=\"600\" height=\"600\" alt=\"White Gothic Cat wearing a crown.\">\n",
+				"content_text": "The royalty is not in the crown, or even the golden coronation. The royalty is in the attitude of converting the rise from the litter box to the throne. #AI #Midjourney #Cats \n\n<img src=\"uploads/2023/c0c3ea8fbd.png\" width=\"600\" height=\"600\" alt=\"White Gothic Cat wearing a crown.\">\n",
 				"date_published": "2023-05-04T10:12:25-04:00",
 				"url": "https://boles.co/2023/05/04/the-royalty-is.html"
 			},
@@ -267,7 +299,7 @@
 				"id": "http://boles.micro.blog/2023/05/03/hmm-im-using.html",
 				
 				"content_html": "<p>Hmm. I&rsquo;m using the DALL-E Art Bot &ndash; via a new GPT-4 Chat Bot &ndash; to create my favorite meme: &ldquo;Four Horsemen of the Apocalypse&rdquo; and this is the thanks I get! #AI #DALL-E</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Hmm. I'm using the DALL-E Art Bot -- via a new GPT-4 Chat Bot -- to create my favorite meme: \"Four Horsemen of the Apocalypse\" and this is the thanks I get! #AI #DALL-E \n\n<img src=\"https://cdn.uploads.micro.blog/97682/2023/6074296343.png\" width=\"600\" height=\"600\" alt=\"&quot;Four Horsemen of the Apocalypse&quot; -- with one hourse in every corner.\">\n",
+				"content_text": "Hmm. I'm using the DALL-E Art Bot -- via a new GPT-4 Chat Bot -- to create my favorite meme: \"Four Horsemen of the Apocalypse\" and this is the thanks I get! #AI #DALL-E \n\n<img src=\"uploads/2023/6074296343.png\" width=\"600\" height=\"600\" alt=\"&quot;Four Horsemen of the Apocalypse&quot; -- with one hourse in every corner.\">\n",
 				"date_published": "2023-05-03T11:56:21-04:00",
 				"url": "https://boles.co/2023/05/03/hmm-im-using.html"
 			},
@@ -275,7 +307,7 @@
 				"id": "http://boles.micro.blog/2023/05/02/the-fire-among.html",
 				
 				"content_html": "<p>The fire among us, is within us, and escapes through the touching of a heart in despair. #AI #Midjourney</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "The fire among us, is within us, and escapes through the touching of a heart in despair. #AI #Midjourney \n\n<img src=\"https://cdn.uploads.micro.blog/97682/2023/7135fc96d2.png\" width=\"600\" height=\"600\" alt=\"Woman on fire with a hand in flames. \">\n",
+				"content_text": "The fire among us, is within us, and escapes through the touching of a heart in despair. #AI #Midjourney \n\n<img src=\"uploads/2023/7135fc96d2.png\" width=\"600\" height=\"600\" alt=\"Woman on fire with a hand in flames. \">\n",
 				"date_published": "2023-05-02T14:23:45-04:00",
 				"url": "https://boles.co/2023/05/02/the-fire-among.html"
 			},
@@ -283,7 +315,7 @@
 				"id": "http://boles.micro.blog/2023/05/01/ai-image-bots.html",
 				
 				"content_html": "<p>AI Image Bots are not great with text. They can&rsquo;t really insert text from a prompt, but that doesn&rsquo;t mean they won&rsquo;t insert random text anyway. It can be maddening! This AI cartoon is about &ldquo;American Empathy&rdquo; and if you ignore the text balloons, you can still divine the meaning! #AI #Midjourney</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "AI Image Bots are not great with text. They can't really insert text from a prompt, but that doesn't mean they won't insert random text anyway. It can be maddening! This AI cartoon is about \"American Empathy\" and if you ignore the text balloons, you can still divine the meaning! #AI #Midjourney \n\n<img src=\"https://cdn.uploads.micro.blog/97682/2023/c8c49cf9f4.png\" width=\"600\" height=\"600\" alt=\"&quot;American Empathy&quot; cartoon. A man alone seeking company and not finding it.\">\n",
+				"content_text": "AI Image Bots are not great with text. They can't really insert text from a prompt, but that doesn't mean they won't insert random text anyway. It can be maddening! This AI cartoon is about \"American Empathy\" and if you ignore the text balloons, you can still divine the meaning! #AI #Midjourney \n\n<img src=\"uploads/2023/c8c49cf9f4.png\" width=\"600\" height=\"600\" alt=\"&quot;American Empathy&quot; cartoon. A man alone seeking company and not finding it.\">\n",
 				"date_published": "2023-05-01T13:12:44-04:00",
 				"url": "https://boles.co/2023/05/01/ai-image-bots.html"
 			},
@@ -291,7 +323,7 @@
 				"id": "http://boles.micro.blog/2023/04/30/we-see-through.html",
 				
 				"content_html": "<p>We see through the veil of disappointment to learn what we almost won; we grieve the possibilities lost. We blink and we disappear. #AI #Midjourney</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "We see through the veil of disappointment to learn what we almost won; we grieve the possibilities lost. We blink and we disappear. #AI #Midjourney \n\n<img src=\"https://cdn.uploads.micro.blog/97682/2023/44c9ac5750.png\" width=\"600\" height=\"600\" alt=\"An American Flag eye.\">\n",
+				"content_text": "We see through the veil of disappointment to learn what we almost won; we grieve the possibilities lost. We blink and we disappear. #AI #Midjourney \n\n<img src=\"uploads/2023/44c9ac5750.png\" width=\"600\" height=\"600\" alt=\"An American Flag eye.\">\n",
 				"date_published": "2023-04-30T11:36:36-04:00",
 				"url": "https://boles.co/2023/04/30/we-see-through.html"
 			},
@@ -299,7 +331,7 @@
 				"id": "http://boles.micro.blog/2023/04/29/the-future-we.html",
 				
 				"content_html": "<p>The future we long to live is the past we have worked to forget. #AI #Midjourney</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "The future we long to live is the past we have worked to forget. #AI #Midjourney \n\n<img src=\"https://cdn.uploads.micro.blog/97682/2023/dd1d3ab74a.png\" width=\"600\" height=\"600\" alt=\"Blue Andriod in Times Square\">\n",
+				"content_text": "The future we long to live is the past we have worked to forget. #AI #Midjourney \n\n<img src=\"uploads/2023/dd1d3ab74a.png\" width=\"600\" height=\"600\" alt=\"Blue Andriod in Times Square\">\n",
 				"date_published": "2023-04-29T11:36:43-04:00",
 				"url": "https://boles.co/2023/04/29/the-future-we.html"
 			},
@@ -307,7 +339,7 @@
 				"id": "http://boles.micro.blog/2023/04/28/when-an-idea.html",
 				
 				"content_html": "<p>When an idea burns, the thought is lost forever; but the residue of inspiration remains. That is how we remember. That is how we propagate knowledge. We are marked by bitter ash that survives the flame. #AI #Midjourney</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "When an idea burns, the thought is lost forever; but the residue of inspiration remains. That is how we remember. That is how we propagate knowledge. We are marked by bitter ash that survives the flame. #AI #Midjourney\n\n<img src=\"https://cdn.uploads.micro.blog/97682/2023/6d25245a1b.png\" width=\"600\" height=\"600\" alt=\"A burned library.\">\n",
+				"content_text": "When an idea burns, the thought is lost forever; but the residue of inspiration remains. That is how we remember. That is how we propagate knowledge. We are marked by bitter ash that survives the flame. #AI #Midjourney\n\n<img src=\"uploads/2023/6d25245a1b.png\" width=\"600\" height=\"600\" alt=\"A burned library.\">\n",
 				"date_published": "2023-04-28T12:46:52-04:00",
 				"url": "https://boles.co/2023/04/28/when-an-idea.html"
 			},
@@ -315,7 +347,7 @@
 				"id": "http://boles.micro.blog/2023/04/27/you-can-serve.html",
 				
 				"content_html": "<p>You can serve two allegiances equally, and at the same time, and with respect. #AI #Midjourney</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "You can serve two allegiances equally, and at the same time, and with respect. #AI #Midjourney \n\n<img src=\"https://cdn.uploads.micro.blog/97682/2023/526b2df104.png\" width=\"600\" height=\"600\" alt=\"Older Indian woman wrapped in a Chrokee blanket sitting in front of an American flag.\">\n",
+				"content_text": "You can serve two allegiances equally, and at the same time, and with respect. #AI #Midjourney \n\n<img src=\"uploads/2023/526b2df104.png\" width=\"600\" height=\"600\" alt=\"Older Indian woman wrapped in a Chrokee blanket sitting in front of an American flag.\">\n",
 				"date_published": "2023-04-27T12:34:24-04:00",
 				"url": "https://boles.co/2023/04/27/you-can-serve.html"
 			},
@@ -323,7 +355,7 @@
 				"id": "http://boles.micro.blog/2023/04/26/we-cling-to.html",
 				
 				"content_html": "<p>We cling to life looking for a soft place to land. Sometimes we are left hanging by condition and circumstance, and there we wait, soaked in the moment, waiting to fall. #AI #Midjourney</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "We cling to life looking for a soft place to land. Sometimes we are left hanging by condition and circumstance, and there we wait, soaked in the moment, waiting to fall. #AI #Midjourney\n\n<img src=\"https://cdn.uploads.micro.blog/97682/2023/ec58f17098.png\" width=\"600\" height=\"600\" alt=\"Man hanging in midair in a waterfall.\">\n",
+				"content_text": "We cling to life looking for a soft place to land. Sometimes we are left hanging by condition and circumstance, and there we wait, soaked in the moment, waiting to fall. #AI #Midjourney\n\n<img src=\"uploads/2023/ec58f17098.png\" width=\"600\" height=\"600\" alt=\"Man hanging in midair in a waterfall.\">\n",
 				"date_published": "2023-04-26T10:32:04-04:00",
 				"url": "https://boles.co/2023/04/26/we-cling-to.html"
 			},
@@ -331,7 +363,7 @@
 				"id": "http://boles.micro.blog/2023/04/25/heres-one-thing.html",
 				
 				"content_html": "<p>Here&rsquo;s one thing I&rsquo;ve learned, the hard way, in my old age: Being an adult is sometimes apologizing for things you did not do. #AI #NIJI #Midjourney</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Here's one thing I've learned, the hard way, in my old age: Being an adult is sometimes apologizing for things you did not do. #AI #NIJI #Midjourney \n\n<img src=\"https://cdn.uploads.micro.blog/97682/2023/82b0dee26c.png\" width=\"451\" height=\"600\" alt=\"Standing in accusation.\">\n",
+				"content_text": "Here's one thing I've learned, the hard way, in my old age: Being an adult is sometimes apologizing for things you did not do. #AI #NIJI #Midjourney \n\n<img src=\"uploads/2023/82b0dee26c.png\" width=\"451\" height=\"600\" alt=\"Standing in accusation.\">\n",
 				"date_published": "2023-04-25T11:40:09-04:00",
 				"url": "https://boles.co/2023/04/25/heres-one-thing.html"
 			},
@@ -339,7 +371,7 @@
 				"id": "http://boles.micro.blog/2023/04/24/we-live-a.html",
 				
 				"content_html": "<p>We live a quiet life while, above us, the heavens sing out for our attention. #AI #Midjourney</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "We live a quiet life while, above us, the heavens sing out for our attention. #AI #Midjourney \n\n<img src=\"https://cdn.uploads.micro.blog/97682/2023/196f692da1.png\" width=\"451\" height=\"600\" alt=\"\">\n",
+				"content_text": "We live a quiet life while, above us, the heavens sing out for our attention. #AI #Midjourney \n\n<img src=\"uploads/2023/196f692da1.png\" width=\"451\" height=\"600\" alt=\"\">\n",
 				"date_published": "2023-04-24T13:58:50-04:00",
 				"url": "https://boles.co/2023/04/24/we-live-a.html"
 			},
@@ -347,7 +379,7 @@
 				"id": "http://boles.micro.blog/2023/04/23/we-imagine-one.html",
 				
 				"content_html": "<p>We imagine one world and dream in another. #AI #Midjourney</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "We imagine one world and dream in another. #AI #Midjourney \n\n<img src=\"https://cdn.uploads.micro.blog/97682/2023/5958dcfc9a.png\" width=\"600\" height=\"600\" alt=\"\">\n",
+				"content_text": "We imagine one world and dream in another. #AI #Midjourney \n\n<img src=\"uploads/2023/5958dcfc9a.png\" width=\"600\" height=\"600\" alt=\"\">\n",
 				"date_published": "2023-04-23T14:12:26-04:00",
 				"url": "https://boles.co/2023/04/23/we-imagine-one.html"
 			},
@@ -355,7 +387,7 @@
 				"id": "http://boles.micro.blog/2023/04/22/happy-earth-day.html",
 				
 				"content_html": "<p>Happy Earth Day! #AI #Midjourney</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Happy Earth Day! #AI #Midjourney\n\n<img src=\"https://cdn.uploads.micro.blog/97682/2023/1b23694722.png\" width=\"600\" height=\"600\" alt=\"Earth as a birthday cake in space with candles and sparkles.\">\n",
+				"content_text": "Happy Earth Day! #AI #Midjourney\n\n<img src=\"uploads/2023/1b23694722.png\" width=\"600\" height=\"600\" alt=\"Earth as a birthday cake in space with candles and sparkles.\">\n",
 				"date_published": "2023-04-22T13:27:01-04:00",
 				"url": "https://boles.co/2023/04/22/happy-earth-day.html"
 			},
@@ -363,7 +395,7 @@
 				"id": "http://boles.micro.blog/2023/04/21/there-is-an.html",
 				
 				"content_html": "<p>There is an elegance is making the ridiculous sublime. The jester may be wiser than the king. The joke may cut deeper than the fact. The laugh may hurt more than the cry. #AI #Midjourney</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "There is an elegance is making the ridiculous sublime. The jester may be wiser than the king. The joke may cut deeper than the fact. The laugh may hurt more than the cry. #AI #Midjourney \n\n<img src=\"https://cdn.uploads.micro.blog/97682/2023/78a2afbbcd.png\" width=\"600\" height=\"600\" alt=\"Steampunk calliope hat.\">\n",
+				"content_text": "There is an elegance is making the ridiculous sublime. The jester may be wiser than the king. The joke may cut deeper than the fact. The laugh may hurt more than the cry. #AI #Midjourney \n\n<img src=\"uploads/2023/78a2afbbcd.png\" width=\"600\" height=\"600\" alt=\"Steampunk calliope hat.\">\n",
 				"date_published": "2023-04-21T12:11:38-04:00",
 				"url": "https://boles.co/2023/04/21/there-is-an.html"
 			},
@@ -371,7 +403,7 @@
 				"id": "http://boles.micro.blog/2023/04/20/what-draws-the.html",
 				
 				"content_html": "<p>What draws the human touch into a Bot? The Bot or the Human? #AI #Midjourney #Bots #Human</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "What draws the human touch into a Bot? The Bot or the Human? #AI #Midjourney #Bots #Human \n\n<img src=\"https://cdn.uploads.micro.blog/97682/2023/b4f92f8ef3.png\" width=\"600\" height=\"600\" alt=\"A Bot with a Human Hand drawing itself with pen and paper. \">\n",
+				"content_text": "What draws the human touch into a Bot? The Bot or the Human? #AI #Midjourney #Bots #Human \n\n<img src=\"uploads/2023/b4f92f8ef3.png\" width=\"600\" height=\"600\" alt=\"A Bot with a Human Hand drawing itself with pen and paper. \">\n",
 				"date_published": "2023-04-20T11:19:21-04:00",
 				"url": "https://boles.co/2023/04/20/what-draws-the.html"
 			},
@@ -379,7 +411,7 @@
 				"id": "http://boles.micro.blog/2023/04/19/a-dream-collapses.html",
 				
 				"content_html": "<p>A dream collapses in the salty humidity of the dislocation of intent. We dream to know. We wake to apply. We mourn to mark losses. We become the shell of hope when our dreams no longer nourish us awake. #AI #Midjourney</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "A dream collapses in the salty humidity of the dislocation of intent. We dream to know. We wake to apply. We mourn to mark losses. We become the shell of hope when our dreams no longer nourish us awake. #AI #Midjourney \n\n<img src=\"https://cdn.uploads.micro.blog/97682/2023/3540d502b1.png\" width=\"600\" height=\"600\" alt=\"A sand creature wearing a mask on the beach.\">\n",
+				"content_text": "A dream collapses in the salty humidity of the dislocation of intent. We dream to know. We wake to apply. We mourn to mark losses. We become the shell of hope when our dreams no longer nourish us awake. #AI #Midjourney \n\n<img src=\"uploads/2023/3540d502b1.png\" width=\"600\" height=\"600\" alt=\"A sand creature wearing a mask on the beach.\">\n",
 				"date_published": "2023-04-19T12:07:48-04:00",
 				"url": "https://boles.co/2023/04/19/a-dream-collapses.html"
 			},
@@ -387,7 +419,7 @@
 				"id": "http://boles.micro.blog/2023/04/18/janna-took-this.html",
 				
 				"content_html": "<p>Janna took this fantastic photo yesterday of a Piano performer in Washington Square Park in New York City &ndash; sleeping on top of his instrument! &ldquo;Only in New York!&rdquo; #Music #Sleep #NYC #Piano</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Janna took this fantastic photo yesterday of a Piano performer in Washington Square Park in New York City -- sleeping on top of his instrument! \"Only in New York!\" #Music #Sleep #NYC #Piano\n\n<img src=\"https://cdn.uploads.micro.blog/97682/2023/617f3356a6.png\" width=\"600\" height=\"450\" alt=\"Piano Man sleeping on his instrument.\">\n",
+				"content_text": "Janna took this fantastic photo yesterday of a Piano performer in Washington Square Park in New York City -- sleeping on top of his instrument! \"Only in New York!\" #Music #Sleep #NYC #Piano\n\n<img src=\"uploads/2023/617f3356a6.png\" width=\"600\" height=\"450\" alt=\"Piano Man sleeping on his instrument.\">\n",
 				"date_published": "2023-04-18T14:50:38-04:00",
 				"url": "https://boles.co/2023/04/18/janna-took-this.html"
 			},
@@ -395,7 +427,7 @@
 				"id": "http://boles.micro.blog/2023/04/17/when-the-toys.html",
 				
 				"content_html": "<p>When the toys of childhood become current temptors of torture, we begin to reevaluate who we are, why we are here, and wonder where we have gone? #AI #Midjourney</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "When the toys of childhood become current temptors of torture, we begin to reevaluate who we are, why we are here, and wonder where we have gone? #AI #Midjourney \n\n<img src=\"https://cdn.uploads.micro.blog/97682/2023/3efc8f7a45.png\" width=\"600\" height=\"573\" alt=\"An ancient toy will a skull eating two tiny skulls.\">\n",
+				"content_text": "When the toys of childhood become current temptors of torture, we begin to reevaluate who we are, why we are here, and wonder where we have gone? #AI #Midjourney \n\n<img src=\"uploads/2023/3efc8f7a45.png\" width=\"600\" height=\"573\" alt=\"An ancient toy will a skull eating two tiny skulls.\">\n",
 				"date_published": "2023-04-17T11:19:06-04:00",
 				"url": "https://boles.co/2023/04/17/when-the-toys.html"
 			},
@@ -403,7 +435,7 @@
 				"id": "http://boles.micro.blog/2023/04/16/recognizing-an-image.html",
 				
 				"content_html": "<p>Recognizing an image gives it meaning. That knowing informs the context for the rest of the imagining. What becomes real is the belief the virtual exists. #AI #Midjourney</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Recognizing an image gives it meaning. That knowing informs the context for the rest of the imagining. What becomes real is the belief the virtual exists. #AI #Midjourney \n\n<img src=\"https://cdn.uploads.micro.blog/97682/2023/81bf80cfc1.png\" width=\"600\" height=\"600\" alt=\"The Statue of Liberty reimagined in old New York.\">\n",
+				"content_text": "Recognizing an image gives it meaning. That knowing informs the context for the rest of the imagining. What becomes real is the belief the virtual exists. #AI #Midjourney \n\n<img src=\"uploads/2023/81bf80cfc1.png\" width=\"600\" height=\"600\" alt=\"The Statue of Liberty reimagined in old New York.\">\n",
 				"date_published": "2023-04-16T14:03:10-04:00",
 				"url": "https://boles.co/2023/04/16/recognizing-an-image.html"
 			},
@@ -411,7 +443,7 @@
 				"id": "http://boles.micro.blog/2023/04/15/serenade-yourself-find.html",
 				
 				"content_html": "<p>Serenade yourself. Find the right tone. Hit the right notes. Your joy of discovery in vibration will pull you into the next day where the moments of melody gleefully await your apt arrival. #AI #Midjourney #Cats #Caturday</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Serenade yourself. Find the right tone. Hit the right notes. Your joy of discovery in vibration will pull you into the next day where the moments of melody gleefully await your apt arrival. #AI #Midjourney #Cats #Caturday \n\n<img src=\"https://cdn.uploads.micro.blog/97682/2023/b625b1d6aa.png\" width=\"600\" height=\"600\" alt=\"Statue of a Cat playing a guitar.\">\n",
+				"content_text": "Serenade yourself. Find the right tone. Hit the right notes. Your joy of discovery in vibration will pull you into the next day where the moments of melody gleefully await your apt arrival. #AI #Midjourney #Cats #Caturday \n\n<img src=\"uploads/2023/b625b1d6aa.png\" width=\"600\" height=\"600\" alt=\"Statue of a Cat playing a guitar.\">\n",
 				"date_published": "2023-04-15T14:05:13-04:00",
 				"url": "https://boles.co/2023/04/15/serenade-yourself-find.html"
 			},
@@ -419,7 +451,7 @@
 				"id": "http://boles.micro.blog/2023/04/14/learning-a-new.html",
 				
 				"content_html": "<p>Learning a new language can be a challenge &ndash; or it can be a bunch of fun! Janna Sweenie will teach you American Sign Language the fun way this Summer at NYU! You can register as a special student if you are not an NYU student. ASL 1 and 2 in NYC! #Deaf #ASL #SignLanguage #NYU #NYC #AI #Midjourney</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Learning a new language can be a challenge -- or it can be a bunch of fun! Janna Sweenie will teach you American Sign Language the fun way this Summer at NYU! You can register as a special student if you are not an NYU student. ASL 1 and 2 in NYC! #Deaf #ASL #SignLanguage #NYU #NYC #AI #Midjourney\n\n<img src=\"https://cdn.uploads.micro.blog/97682/2023/dccf9774bd.png\" width=\"600\" height=\"600\" alt=\"A hand indicating the number &quot;3&quot; in American Sign Language.\">\n",
+				"content_text": "Learning a new language can be a challenge -- or it can be a bunch of fun! Janna Sweenie will teach you American Sign Language the fun way this Summer at NYU! You can register as a special student if you are not an NYU student. ASL 1 and 2 in NYC! #Deaf #ASL #SignLanguage #NYU #NYC #AI #Midjourney\n\n<img src=\"uploads/2023/dccf9774bd.png\" width=\"600\" height=\"600\" alt=\"A hand indicating the number &quot;3&quot; in American Sign Language.\">\n",
 				"date_published": "2023-04-14T12:32:47-04:00",
 				"url": "https://boles.co/2023/04/14/learning-a-new.html"
 			},
@@ -427,7 +459,7 @@
 				"id": "http://boles.micro.blog/2023/04/13/the-arc-of.html",
 				
 				"content_html": "<p>The arc of artificial inspiration strikes with with the ferocity of fire and glare. One look. One moment. It becomes real. Then the gaze softens. Reality becomes shapeless. And we are alone again, empty grasped, but hanging our wishes on the hope of return. #AI #Midjourney</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "The arc of artificial inspiration strikes with with the ferocity of fire and glare. One look. One moment. It becomes real. Then the gaze softens. Reality becomes shapeless. And we are alone again, empty grasped, but hanging our wishes on the hope of return. #AI #Midjourney\n\n<img src=\"https://cdn.uploads.micro.blog/97682/2023/1187dc2784.png\" width=\"600\" height=\"600\" alt=\"AI image of model Adriana Lima on the beach. \">\n",
+				"content_text": "The arc of artificial inspiration strikes with with the ferocity of fire and glare. One look. One moment. It becomes real. Then the gaze softens. Reality becomes shapeless. And we are alone again, empty grasped, but hanging our wishes on the hope of return. #AI #Midjourney\n\n<img src=\"uploads/2023/1187dc2784.png\" width=\"600\" height=\"600\" alt=\"AI image of model Adriana Lima on the beach. \">\n",
 				"date_published": "2023-04-13T15:26:06-04:00",
 				"url": "https://boles.co/2023/04/13/the-arc-of.html"
 			},
@@ -435,7 +467,7 @@
 				"id": "http://boles.micro.blog/2023/04/12/education-is-not.html",
 				
 				"content_html": "<p>Education is not a monster to be feared; education is a friend to be embraced to fight evil lurking in the real world beyond the Quad. The monster of your mind fights deception, crushes cruelty, and embeds meaning into a confusing world spinning yonder. #AI #Midjourney #Education #Knowing</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Education is not a monster to be feared; education is a friend to be embraced to fight evil lurking in the real world beyond the Quad. The monster of your mind fights deception, crushes cruelty, and embeds meaning into a confusing world spinning yonder. #AI #Midjourney #Education #Knowing\n\n<img src=\"https://cdn.uploads.micro.blog/97682/2023/da6d09794c.png\" width=\"600\" height=\"600\" alt=\"Monster in the quad.\">\n",
+				"content_text": "Education is not a monster to be feared; education is a friend to be embraced to fight evil lurking in the real world beyond the Quad. The monster of your mind fights deception, crushes cruelty, and embeds meaning into a confusing world spinning yonder. #AI #Midjourney #Education #Knowing\n\n<img src=\"uploads/2023/da6d09794c.png\" width=\"600\" height=\"600\" alt=\"Monster in the quad.\">\n",
 				"date_published": "2023-04-12T11:02:54-04:00",
 				"url": "https://boles.co/2023/04/12/education-is-not.html"
 			},
@@ -443,7 +475,7 @@
 				"id": "http://boles.micro.blog/2023/04/11/america-is-on.html",
 				
 				"content_html": "<p>America is on false alert, looking over her shoulder, anticipating the fear, and gruesomeness that we have become. We pretend to care. We send up prayers as thought balloons. We believe a bullet will save us from a faster bullet. We live to grieve. Our entertainment is the grave. #AI #Midjourney</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "America is on false alert, looking over her shoulder, anticipating the fear, and gruesomeness that we have become. We pretend to care. We send up prayers as thought balloons. We believe a bullet will save us from a faster bullet. We live to grieve. Our entertainment is the grave. #AI #Midjourney\n\n<img src=\"https://cdn.uploads.micro.blog/97682/2023/4b4f68f239.png\" width=\"600\" height=\"600\" alt=\"Suspicious looking Statue of Liberty.\">\n",
+				"content_text": "America is on false alert, looking over her shoulder, anticipating the fear, and gruesomeness that we have become. We pretend to care. We send up prayers as thought balloons. We believe a bullet will save us from a faster bullet. We live to grieve. Our entertainment is the grave. #AI #Midjourney\n\n<img src=\"uploads/2023/4b4f68f239.png\" width=\"600\" height=\"600\" alt=\"Suspicious looking Statue of Liberty.\">\n",
 				"date_published": "2023-04-11T12:45:19-04:00",
 				"url": "https://boles.co/2023/04/11/america-is-on.html"
 			},
@@ -451,7 +483,7 @@
 				"id": "http://boles.micro.blog/2023/04/10/we-are-surrounded.html",
 				
 				"content_html": "<p>We are surrounded by those who actively, and passively, judge us. Sometimes they peer from afar. Sometimes they hide behind the door ajar. They are all always taking notes, looking for faults, hoping for the comical trip and fall they can document against you. Beware the watchers. #AI #Midjourney</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "We are surrounded by those who actively, and passively, judge us. Sometimes they peer from afar. Sometimes they hide behind the door ajar. They are all always taking notes, looking for faults, hoping for the comical trip and fall they can document against you. Beware the watchers. #AI #Midjourney\n\n<img src=\"https://cdn.uploads.micro.blog/97682/2023/14f1cc1436.png\" width=\"600\" height=\"600\" alt=\"Nosferatu leaning agaainst an open door. \">\n",
+				"content_text": "We are surrounded by those who actively, and passively, judge us. Sometimes they peer from afar. Sometimes they hide behind the door ajar. They are all always taking notes, looking for faults, hoping for the comical trip and fall they can document against you. Beware the watchers. #AI #Midjourney\n\n<img src=\"uploads/2023/14f1cc1436.png\" width=\"600\" height=\"600\" alt=\"Nosferatu leaning agaainst an open door. \">\n",
 				"date_published": "2023-04-10T11:07:24-04:00",
 				"url": "https://boles.co/2023/04/10/we-are-surrounded.html"
 			},
@@ -459,7 +491,7 @@
 				"id": "http://boles.micro.blog/2023/04/09/when-we-lift.html",
 				
 				"content_html": "<p>When we lift our minds to the sun, the heart follows. One sun becomes another, becomes another, and then we have a whole universe of warmth and light to guide every dark moment. #AI #Midjourney #Sun</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "When we lift our minds to the sun, the heart follows. One sun becomes another, becomes another, and then we have a whole universe of warmth and light to guide every dark moment. #AI #Midjourney #Sun \n\n<img src=\"https://cdn.uploads.micro.blog/97682/2023/520615ddf5.png\" width=\"600\" height=\"600\" alt=\"Sun photo God.\">\n",
+				"content_text": "When we lift our minds to the sun, the heart follows. One sun becomes another, becomes another, and then we have a whole universe of warmth and light to guide every dark moment. #AI #Midjourney #Sun \n\n<img src=\"uploads/2023/520615ddf5.png\" width=\"600\" height=\"600\" alt=\"Sun photo God.\">\n",
 				"date_published": "2023-04-09T10:50:44-04:00",
 				"url": "https://boles.co/2023/04/09/when-we-lift.html"
 			},
@@ -467,7 +499,7 @@
 				"id": "http://boles.micro.blog/2023/04/08/rest-well-dear.html",
 				
 				"content_html": "<p>Rest well, dear mortal, for sometimes even the Gods pick their nose in public! #AI #Midjourney #Myth #Gods #NosePicking</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Rest well, dear mortal, for sometimes even the Gods pick their nose in public! #AI #Midjourney #Myth #Gods #NosePicking \n\n<img src=\"https://cdn.uploads.micro.blog/97682/2023/d298056fd3.png\" width=\"600\" height=\"600\" alt=\"A God picking his nose.\">\n",
+				"content_text": "Rest well, dear mortal, for sometimes even the Gods pick their nose in public! #AI #Midjourney #Myth #Gods #NosePicking \n\n<img src=\"uploads/2023/d298056fd3.png\" width=\"600\" height=\"600\" alt=\"A God picking his nose.\">\n",
 				"date_published": "2023-04-08T10:26:41-04:00",
 				"url": "https://boles.co/2023/04/08/rest-well-dear.html"
 			},
@@ -475,7 +507,7 @@
 				"id": "http://boles.micro.blog/2023/04/07/we-wait-for.html",
 				
 				"content_html": "<p>We wait for the world to return to us; and yet it only keeps spinning away from us. We mourn. We remember. We live in a time of grief. The residue of what was becomes a permanent present. #AI #Midjourney</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "We wait for the world to return to us; and yet it only keeps spinning away from us. We mourn. We remember. We live in a time of grief. The residue of what was becomes a permanent present. #AI #Midjourney \n\n<img src=\"https://cdn.uploads.micro.blog/97682/2023/296789522a.png\" width=\"600\" height=\"600\" alt=\"A clown sitting next to a tube television.\">\n",
+				"content_text": "We wait for the world to return to us; and yet it only keeps spinning away from us. We mourn. We remember. We live in a time of grief. The residue of what was becomes a permanent present. #AI #Midjourney \n\n<img src=\"uploads/2023/296789522a.png\" width=\"600\" height=\"600\" alt=\"A clown sitting next to a tube television.\">\n",
 				"date_published": "2023-04-07T11:31:21-04:00",
 				"url": "https://boles.co/2023/04/07/we-wait-for.html"
 			},
@@ -483,7 +515,7 @@
 				"id": "http://boles.micro.blog/2023/04/06/when-the-fdny.html",
 				
 				"content_html": "<p>When the FDNY Steampunk fire engine arrives in Times Square to help put out the fire and ends up spreading the fire! #AI #Midjourney #FDNY #Steampunk #TimesSquare #NYC #RyanStartedTheFire</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "When the FDNY Steampunk fire engine arrives in Times Square to help put out the fire and ends up spreading the fire! #AI #Midjourney #FDNY #Steampunk #TimesSquare #NYC #RyanStartedTheFire  \n\n<img src=\"https://cdn.uploads.micro.blog/97682/2023/1a065ebc7c.png\" width=\"600\" height=\"600\" alt=\"Steampunk fire engine on fire.\">\n",
+				"content_text": "When the FDNY Steampunk fire engine arrives in Times Square to help put out the fire and ends up spreading the fire! #AI #Midjourney #FDNY #Steampunk #TimesSquare #NYC #RyanStartedTheFire  \n\n<img src=\"uploads/2023/1a065ebc7c.png\" width=\"600\" height=\"600\" alt=\"Steampunk fire engine on fire.\">\n",
 				"date_published": "2023-04-06T11:10:10-04:00",
 				"url": "https://boles.co/2023/04/06/when-the-fdny.html"
 			},
@@ -491,7 +523,7 @@
 				"id": "http://boles.micro.blog/2023/04/05/beware-the-abandoned.html",
 				
 				"content_html": "<p>Beware the abandoned outpost where fears and dreams both slept together and died as one. The overgrowth can never hide the betrayal of the abandonment of the ideal. Left rotting in the sun and splintering in the rain, we become what we forgot. #AI #Midjourney #Outpost</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Beware the abandoned outpost where fears and dreams both slept together and died as one. The overgrowth can never hide the betrayal of the abandonment of the ideal. Left rotting in the sun and splintering in the rain, we become what we forgot. #AI #Midjourney #Outpost \n\n<img src=\"https://cdn.uploads.micro.blog/97682/2023/448e8a6c83.png\" width=\"600\" height=\"600\" alt=\"Abandoned outpost.\">\n",
+				"content_text": "Beware the abandoned outpost where fears and dreams both slept together and died as one. The overgrowth can never hide the betrayal of the abandonment of the ideal. Left rotting in the sun and splintering in the rain, we become what we forgot. #AI #Midjourney #Outpost \n\n<img src=\"uploads/2023/448e8a6c83.png\" width=\"600\" height=\"600\" alt=\"Abandoned outpost.\">\n",
 				"date_published": "2023-04-05T12:13:21-04:00",
 				"url": "https://boles.co/2023/04/05/beware-the-abandoned.html"
 			},
@@ -499,7 +531,7 @@
 				"id": "http://boles.micro.blog/2023/04/04/every-rising-sun.html",
 				
 				"content_html": "<p>Every rising sun is an opportunity to change the rest of the day. Follow the warmth. Stare into the shadows. Find the efficiency of the light and make it work in your favor. #AI #Midjourney #Sunrise #NYC</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Every rising sun is an opportunity to change the rest of the day. Follow the warmth. Stare into the shadows. Find the efficiency of the light and make it work in your favor. #AI #Midjourney #Sunrise #NYC \n\n<img src=\"https://cdn.uploads.micro.blog/97682/2023/dd21b7f903.png\" width=\"600\" height=\"600\" alt=\"The sun breaks in New York City.\">\n",
+				"content_text": "Every rising sun is an opportunity to change the rest of the day. Follow the warmth. Stare into the shadows. Find the efficiency of the light and make it work in your favor. #AI #Midjourney #Sunrise #NYC \n\n<img src=\"uploads/2023/dd21b7f903.png\" width=\"600\" height=\"600\" alt=\"The sun breaks in New York City.\">\n",
 				"date_published": "2023-04-04T12:17:17-04:00",
 				"url": "https://boles.co/2023/04/04/every-rising-sun.html"
 			},
@@ -507,7 +539,7 @@
 				"id": "http://boles.micro.blog/2023/04/03/we-live-in.html",
 				
 				"content_html": "<p>We live in an American Zoetrope. Spinning in a circle. Repeating our lives. Providing the illusion of movement and the magic of never belonging beyond the frame. #AI #Midjourney #Zoetrope</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "We live in an American Zoetrope. Spinning in a circle. Repeating our lives. Providing the illusion of movement and the magic of never belonging beyond the frame. #AI #Midjourney #Zoetrope \n\n<img src=\"https://cdn.uploads.micro.blog/97682/2023/aa51db66f4.png\" width=\"600\" height=\"600\" alt=\"Zoetrope\">\n",
+				"content_text": "We live in an American Zoetrope. Spinning in a circle. Repeating our lives. Providing the illusion of movement and the magic of never belonging beyond the frame. #AI #Midjourney #Zoetrope \n\n<img src=\"uploads/2023/aa51db66f4.png\" width=\"600\" height=\"600\" alt=\"Zoetrope\">\n",
 				"date_published": "2023-04-03T12:45:46-04:00",
 				"url": "https://boles.co/2023/04/03/we-live-in.html"
 			},
@@ -515,7 +547,7 @@
 				"id": "http://boles.micro.blog/2023/04/02/be-the-ubiquity.html",
 				
 				"content_html": "<p>Be the ubiquity of light. Follow the shadows and blaze a bright path forward. Bring sunshine to despair. Provide warmth to those who are cold. There is no shade without your glow. #AI #Midjourney</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Be the ubiquity of light. Follow the shadows and blaze a bright path forward. Bring sunshine to despair. Provide warmth to those who are cold. There is no shade without your glow. #AI #Midjourney\n\n<img src=\"https://cdn.uploads.micro.blog/97682/2023/3d4b7277c4.png\" width=\"600\" height=\"600\" alt=\"Here comes the sun.\">\n",
+				"content_text": "Be the ubiquity of light. Follow the shadows and blaze a bright path forward. Bring sunshine to despair. Provide warmth to those who are cold. There is no shade without your glow. #AI #Midjourney\n\n<img src=\"uploads/2023/3d4b7277c4.png\" width=\"600\" height=\"600\" alt=\"Here comes the sun.\">\n",
 				"date_published": "2023-04-02T11:57:59-04:00",
 				"url": "https://boles.co/2023/04/02/be-the-ubiquity.html"
 			},
@@ -523,7 +555,7 @@
 				"id": "http://boles.micro.blog/2023/04/01/for-sale-today.html",
 				
 				"content_html": "<p>For Sale: Today Only! The Billionaire&rsquo;s Safe Place to Land Pillow! Lose millions? Safe place to land! Charge now for a free service? Land soft! The pillows are made of the crumbled dreams of poor children and IRS Tax Cheats for the rich, all made to soften every slapdown! #AI #Midjourney #AprilFool</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "For Sale: Today Only! The Billionaire's Safe Place to Land Pillow! Lose millions? Safe place to land! Charge now for a free service? Land soft! The pillows are made of the crumbled dreams of poor children and IRS Tax Cheats for the rich, all made to soften every slapdown! #AI #Midjourney #AprilFool\n\n<img src=\"https://cdn.uploads.micro.blog/97682/2023/a6e9e9d47f.png\" width=\"600\" height=\"600\" alt=\"\">\n",
+				"content_text": "For Sale: Today Only! The Billionaire's Safe Place to Land Pillow! Lose millions? Safe place to land! Charge now for a free service? Land soft! The pillows are made of the crumbled dreams of poor children and IRS Tax Cheats for the rich, all made to soften every slapdown! #AI #Midjourney #AprilFool\n\n<img src=\"uploads/2023/a6e9e9d47f.png\" width=\"600\" height=\"600\" alt=\"\">\n",
 				"date_published": "2023-04-01T08:35:59-04:00",
 				"url": "https://boles.co/2023/04/01/for-sale-today.html"
 			},
@@ -531,7 +563,7 @@
 				"id": "http://boles.micro.blog/2023/03/31/suave-and-swagger.html",
 				
 				"content_html": "<p>Suave and swagger do not replace competence and dignity. We may stumble upon those who believe the surface provides the same value of the depth &ndash; and we have to meet them where they are, letting them skate on the thin veil of what they believe passes for the dignity of a human life. #AI #Midjourney</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Suave and swagger do not replace competence and dignity. We may stumble upon those who believe the surface provides the same value of the depth -- and we have to meet them where they are, letting them skate on the thin veil of what they believe passes for the dignity of a human life. #AI #Midjourney\n\n<img src=\"https://cdn.uploads.micro.blog/97682/2023/4c521b7d4c.png\" width=\"600\" height=\"600\" alt=\"Always remain calm.\">\n",
+				"content_text": "Suave and swagger do not replace competence and dignity. We may stumble upon those who believe the surface provides the same value of the depth -- and we have to meet them where they are, letting them skate on the thin veil of what they believe passes for the dignity of a human life. #AI #Midjourney\n\n<img src=\"uploads/2023/4c521b7d4c.png\" width=\"600\" height=\"600\" alt=\"Always remain calm.\">\n",
 				"date_published": "2023-03-31T08:31:59-04:00",
 				"url": "https://boles.co/2023/03/31/suave-and-swagger.html"
 			},
@@ -539,7 +571,7 @@
 				"id": "http://boles.micro.blog/2023/03/30/when-the-moon.html",
 				
 				"content_html": "<p>When the moon pulls through golden leaves, a silvery night becomes starstruck. #AI #Midjourney</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "When the moon pulls through golden leaves, a silvery night becomes starstruck. #AI #Midjourney \n\n<img src=\"https://cdn.uploads.micro.blog/97682/2023/47cd14b748.png\" width=\"600\" height=\"600\" alt=\"The moon shining through golden leafed trees.\">\n",
+				"content_text": "When the moon pulls through golden leaves, a silvery night becomes starstruck. #AI #Midjourney \n\n<img src=\"uploads/2023/47cd14b748.png\" width=\"600\" height=\"600\" alt=\"The moon shining through golden leafed trees.\">\n",
 				"date_published": "2023-03-30T08:37:44-04:00",
 				"url": "https://boles.co/2023/03/30/when-the-moon.html"
 			},
@@ -547,7 +579,7 @@
 				"id": "http://boles.micro.blog/2023/03/29/in-america-we.html",
 				
 				"content_html": "<p>In America, we not only devour our children - chewing our future - but we also revere the unborn and we wish them to stay that way, perfect, and uninflected, for the rest of their lives because, once they&rsquo;re born, they become fair game for inhalation, destruction and target shooting. #AI #Midjourney</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "In America, we not only devour our children - chewing our future - but we also revere the unborn and we wish them to stay that way, perfect, and uninflected, for the rest of their lives because, once they're born, they become fair game for inhalation, destruction and target shooting. #AI #Midjourney\n\n<img src=\"https://cdn.uploads.micro.blog/97682/2023/2904f85f70.png\" width=\"600\" height=\"600\" alt=\"Monster eating an American flag.\">\n",
+				"content_text": "In America, we not only devour our children - chewing our future - but we also revere the unborn and we wish them to stay that way, perfect, and uninflected, for the rest of their lives because, once they're born, they become fair game for inhalation, destruction and target shooting. #AI #Midjourney\n\n<img src=\"uploads/2023/2904f85f70.png\" width=\"600\" height=\"600\" alt=\"Monster eating an American flag.\">\n",
 				"date_published": "2023-03-29T09:22:48-04:00",
 				"url": "https://boles.co/2023/03/29/in-america-we.html"
 			},
@@ -555,7 +587,7 @@
 				"id": "http://boles.micro.blog/2023/03/28/our-architecture-reflects.html",
 				
 				"content_html": "<p>Our architecture reflects us &ndash; our sorrows, our joys, our fears, our search for desperation, our escape. #AI #Midjourney #Architecture</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Our architecture reflects us -- our sorrows, our joys, our fears, our search for desperation, our escape. #AI #Midjourney #Architecture \n\n<img src=\"https://cdn.uploads.micro.blog/97682/2023/a85520a2b4.png\" width=\"600\" height=\"600\" alt=\"Frank Gehry inspired design -- a monster erupts from the body.\">\n",
+				"content_text": "Our architecture reflects us -- our sorrows, our joys, our fears, our search for desperation, our escape. #AI #Midjourney #Architecture \n\n<img src=\"uploads/2023/a85520a2b4.png\" width=\"600\" height=\"600\" alt=\"Frank Gehry inspired design -- a monster erupts from the body.\">\n",
 				"date_published": "2023-03-28T09:37:31-04:00",
 				"url": "https://boles.co/2023/03/28/our-architecture-reflects.html"
 			},
@@ -563,7 +595,7 @@
 				"id": "http://boles.micro.blog/2023/03/27/there-are-those.html",
 				
 				"content_html": "<p>There are those among us who hide their perversions and perceptions. They pretend to go along. They become a blank sheet of paper upon which you write what you want &ndash; but never what they intend. Once ignited, and revealed, everyone is enraptured by their incendiary deception.  #AI #Midjourney</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "There are those among us who hide their perversions and perceptions. They pretend to go along. They become a blank sheet of paper upon which you write what you want -- but never what they intend. Once ignited, and revealed, everyone is enraptured by their incendiary deception.  #AI #Midjourney \n\n<img src=\"https://cdn.uploads.micro.blog/97682/2023/076a312f14.png\" width=\"600\" height=\"600\" alt=\"Eyes peeking out from a triangle.\">\n",
+				"content_text": "There are those among us who hide their perversions and perceptions. They pretend to go along. They become a blank sheet of paper upon which you write what you want -- but never what they intend. Once ignited, and revealed, everyone is enraptured by their incendiary deception.  #AI #Midjourney \n\n<img src=\"uploads/2023/076a312f14.png\" width=\"600\" height=\"600\" alt=\"Eyes peeking out from a triangle.\">\n",
 				"date_published": "2023-03-27T09:31:38-04:00",
 				"url": "https://boles.co/2023/03/27/there-are-those.html"
 			},
@@ -571,7 +603,7 @@
 				"id": "http://boles.micro.blog/2023/03/26/when-we-fling.html",
 				
 				"content_html": "<p>When we fling our tomorrows against the sky, we are holding hope in the night, waiting for the right star to fall, so others may wish upon our best, sacrificed, gifts. #AI #Midjourney #Starry #Wish</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "When we fling our tomorrows against the sky, we are holding hope in the night, waiting for the right star to fall, so others may wish upon our best, sacrificed, gifts. #AI #Midjourney #Starry #Wish \n\n<img src=\"https://cdn.uploads.micro.blog/97682/2023/ffdbab9893.png\" width=\"600\" height=\"600\" alt=\"A different Starry Night.\">\n",
+				"content_text": "When we fling our tomorrows against the sky, we are holding hope in the night, waiting for the right star to fall, so others may wish upon our best, sacrificed, gifts. #AI #Midjourney #Starry #Wish \n\n<img src=\"uploads/2023/ffdbab9893.png\" width=\"600\" height=\"600\" alt=\"A different Starry Night.\">\n",
 				"date_published": "2023-03-26T12:37:41-04:00",
 				"url": "https://boles.co/2023/03/26/when-we-fling.html"
 			},
@@ -579,7 +611,7 @@
 				"id": "http://boles.micro.blog/2023/03/25/if-the-oaks.html",
 				
 				"content_html": "<p>&ldquo;If the oaks and stars could die for sorrow, it&rsquo;s a dark sky and a hard and naked earth we&rsquo;d have this night.&rdquo; -Deirdre of the Sorrows- by John Millington Synge in 1910. #AI #Midjourney #Stars #Oaks #DramaticLiterature</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "\"If the oaks and stars could die for sorrow, it's a dark sky and a hard and naked earth we'd have this night.\" -Deirdre of the Sorrows- by John Millington Synge in 1910. #AI #Midjourney #Stars #Oaks #DramaticLiterature \n\n<img src=\"https://cdn.uploads.micro.blog/97682/2023/f2512808aa.png\" width=\"600\" height=\"600\" alt=\"The Oaks and Trees.\">\n",
+				"content_text": "\"If the oaks and stars could die for sorrow, it's a dark sky and a hard and naked earth we'd have this night.\" -Deirdre of the Sorrows- by John Millington Synge in 1910. #AI #Midjourney #Stars #Oaks #DramaticLiterature \n\n<img src=\"uploads/2023/f2512808aa.png\" width=\"600\" height=\"600\" alt=\"The Oaks and Trees.\">\n",
 				"date_published": "2023-03-25T10:21:41-04:00",
 				"url": "https://boles.co/2023/03/25/if-the-oaks.html"
 			},
@@ -587,7 +619,7 @@
 				"id": "http://boles.micro.blog/2023/03/24/the-federated-sky.html",
 				
 				"content_html": "<p>The Federated sky still belongs to us. #AI #Midjourney #Federated</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "The Federated sky still belongs to us. #AI #Midjourney #Federated \n\n<img src=\"https://cdn.uploads.micro.blog/97682/2023/97d2c4efcd.png\" width=\"600\" height=\"600\" alt=\"Cherry Blossom Nebula\">\n",
+				"content_text": "The Federated sky still belongs to us. #AI #Midjourney #Federated \n\n<img src=\"uploads/2023/97d2c4efcd.png\" width=\"600\" height=\"600\" alt=\"Cherry Blossom Nebula\">\n",
 				"date_published": "2023-03-24T11:21:23-04:00",
 				"url": "https://boles.co/2023/03/24/the-federated-sky.html"
 			},
@@ -595,7 +627,7 @@
 				"id": "http://boles.micro.blog/2023/03/23/mastodon-has-become.html",
 				
 				"content_html": "<p>Mastodon has become a great place to meet new friends. Nobody is out to hassle you, or get you, or give you a hard time just because they&rsquo;re having a hard day. You can explore ideas, and joke around, and the world doesn&rsquo;t end in fire or force. Finally, we are home. #AI #Midjourney #Mastodon #Friends</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Mastodon has become a great place to meet new friends. Nobody is out to hassle you, or get you, or give you a hard time just because they're having a hard day. You can explore ideas, and joke around, and the world doesn't end in fire or force. Finally, we are home. #AI #Midjourney #Mastodon #Friends\n\n<img src=\"https://cdn.uploads.micro.blog/97682/2023/d1b939b624.png\" width=\"600\" height=\"600\" alt=\"Multicolor Mastodon\">\n",
+				"content_text": "Mastodon has become a great place to meet new friends. Nobody is out to hassle you, or get you, or give you a hard time just because they're having a hard day. You can explore ideas, and joke around, and the world doesn't end in fire or force. Finally, we are home. #AI #Midjourney #Mastodon #Friends\n\n<img src=\"uploads/2023/d1b939b624.png\" width=\"600\" height=\"600\" alt=\"Multicolor Mastodon\">\n",
 				"date_published": "2023-03-23T09:47:47-04:00",
 				"url": "https://boles.co/2023/03/23/mastodon-has-become.html"
 			},
@@ -603,7 +635,7 @@
 				"id": "http://boles.micro.blog/2023/03/22/we-may-not.html",
 				
 				"content_html": "<p>We may not realize it, but every day we dig our final grave a little bit deeper. Our tragedies, our griefs, our joys, our loves all combine to cover the mask. They all become pits of hunger and pinnacles of wonder; and when it is our time, every 100 years new people, we smile with closed eyes. #AI</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "We may not realize it, but every day we dig our final grave a little bit deeper. Our tragedies, our griefs, our joys, our loves all combine to cover the mask. They all become pits of hunger and pinnacles of wonder; and when it is our time, every 100 years new people, we smile with closed eyes. #AI \n\n<img src=\"https://cdn.uploads.micro.blog/97682/2023/f5dc29e08b.png\" width=\"600\" height=\"600\" alt=\"Old woman digging her own grave.\">\n",
+				"content_text": "We may not realize it, but every day we dig our final grave a little bit deeper. Our tragedies, our griefs, our joys, our loves all combine to cover the mask. They all become pits of hunger and pinnacles of wonder; and when it is our time, every 100 years new people, we smile with closed eyes. #AI \n\n<img src=\"uploads/2023/f5dc29e08b.png\" width=\"600\" height=\"600\" alt=\"Old woman digging her own grave.\">\n",
 				"date_published": "2023-03-22T12:57:47-04:00",
 				"url": "https://boles.co/2023/03/22/we-may-not.html"
 			},
@@ -611,7 +643,7 @@
 				"id": "http://boles.micro.blog/2023/03/21/what-gets-enveloped.html",
 				
 				"content_html": "<p>What gets enveloped, gets dissolved. What is collected, becomes memory. What remains solid, liquifies. Be the burden of the other. #AI #Midjourney</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "What gets enveloped, gets dissolved. What is collected, becomes memory. What remains solid, liquifies. Be the burden of the other. #AI #Midjourney \n\n<img src=\"https://cdn.uploads.micro.blog/97682/2023/b4431c16aa.png\" width=\"600\" height=\"600\" alt=\"Moon eating the sun.\">\n",
+				"content_text": "What gets enveloped, gets dissolved. What is collected, becomes memory. What remains solid, liquifies. Be the burden of the other. #AI #Midjourney \n\n<img src=\"uploads/2023/b4431c16aa.png\" width=\"600\" height=\"600\" alt=\"Moon eating the sun.\">\n",
 				"date_published": "2023-03-21T09:55:19-04:00",
 				"url": "https://boles.co/2023/03/21/what-gets-enveloped.html"
 			},
@@ -619,7 +651,7 @@
 				"id": "http://boles.micro.blog/2023/03/20/the-most-important.html",
 				
 				"content_html": "<p>The most important part of your day is not one of work or even imagination &ndash; it is the moment of contemplation you gift yourself. You explore thoughts. You evaluate results. You learn from what did not work. You fix what turned out right. A moment of silence in a lifetime. #AI #Midjourney</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "The most important part of your day is not one of work or even imagination -- it is the moment of contemplation you gift yourself. You explore thoughts. You evaluate results. You learn from what did not work. You fix what turned out right. A moment of silence in a lifetime. #AI #Midjourney \n\n<img src=\"https://cdn.uploads.micro.blog/97682/2023/058a7bd942.png\" width=\"600\" height=\"600\" alt=\"Cartoon man in a hat contemplating a life.\">\n",
+				"content_text": "The most important part of your day is not one of work or even imagination -- it is the moment of contemplation you gift yourself. You explore thoughts. You evaluate results. You learn from what did not work. You fix what turned out right. A moment of silence in a lifetime. #AI #Midjourney \n\n<img src=\"uploads/2023/058a7bd942.png\" width=\"600\" height=\"600\" alt=\"Cartoon man in a hat contemplating a life.\">\n",
 				"date_published": "2023-03-20T09:34:34-04:00",
 				"url": "https://boles.co/2023/03/20/the-most-important.html"
 			},
@@ -627,7 +659,7 @@
 				"id": "http://boles.micro.blog/2023/03/19/there-is-one.html",
 				
 				"content_html": "<p>There is one, and only one rule when you live and play in the Fediverse: ABB = Always Be Boosting! Favoriting is not enough. Bookmarking is not enough. Get the content you support out of your private silo, and promote it to the rest of the world to share the love! BOOST! #AI #Midjourney #Mastodon</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "There is one, and only one rule when you live and play in the Fediverse: ABB = Always Be Boosting! Favoriting is not enough. Bookmarking is not enough. Get the content you support out of your private silo, and promote it to the rest of the world to share the love! BOOST! #AI #Midjourney #Mastodon\n\n<img src=\"https://cdn.uploads.micro.blog/97682/2023/804ef682d4.png\" width=\"600\" height=\"600\" alt=\"Boosted rocket!\">\n",
+				"content_text": "There is one, and only one rule when you live and play in the Fediverse: ABB = Always Be Boosting! Favoriting is not enough. Bookmarking is not enough. Get the content you support out of your private silo, and promote it to the rest of the world to share the love! BOOST! #AI #Midjourney #Mastodon\n\n<img src=\"uploads/2023/804ef682d4.png\" width=\"600\" height=\"600\" alt=\"Boosted rocket!\">\n",
 				"date_published": "2023-03-19T10:46:40-04:00",
 				"url": "https://boles.co/2023/03/19/there-is-one.html"
 			},
@@ -635,7 +667,7 @@
 				"id": "http://boles.micro.blog/2023/03/18/honor-your-melancholia.html",
 				
 				"content_html": "<p>Honor your melancholia, for it is the ultimate mark of being alive. You reflexively examine your life, relive your mistakes, and try to reform all bad behavior in the future. Yet, the human compunction to repeat what we know terraforms all immediate wants, into wishes, into needs. #AI #Midjourney</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Honor your melancholia, for it is the ultimate mark of being alive. You reflexively examine your life, relive your mistakes, and try to reform all bad behavior in the future. Yet, the human compunction to repeat what we know terraforms all immediate wants, into wishes, into needs. #AI #Midjourney\n\n<img src=\"https://cdn.uploads.micro.blog/97682/2023/a2ac8b8e66.png\" width=\"600\" height=\"600\" alt=\"A smiling face with melancholia.\">\n",
+				"content_text": "Honor your melancholia, for it is the ultimate mark of being alive. You reflexively examine your life, relive your mistakes, and try to reform all bad behavior in the future. Yet, the human compunction to repeat what we know terraforms all immediate wants, into wishes, into needs. #AI #Midjourney\n\n<img src=\"uploads/2023/a2ac8b8e66.png\" width=\"600\" height=\"600\" alt=\"A smiling face with melancholia.\">\n",
 				"date_published": "2023-03-18T10:55:48-04:00",
 				"url": "https://boles.co/2023/03/18/honor-your-melancholia.html"
 			},
@@ -643,7 +675,7 @@
 				"id": "http://boles.micro.blog/2023/03/17/when-the-old.html",
 				
 				"content_html": "<p>When the old and the new mix, a new function of mind appears. Was informs now, and rejuvenation of the Spring abides a new moment that reflects the promise of tomorrow while hailing the wonders of the past. #AI #Midjourney #Wind #Barn</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "When the old and the new mix, a new function of mind appears. Was informs now, and rejuvenation of the Spring abides a new moment that reflects the promise of tomorrow while hailing the wonders of the past. #AI #Midjourney #Wind #Barn\n\n<img src=\"https://cdn.uploads.micro.blog/97682/2023/15f11f1ef4.png\" width=\"600\" height=\"600\" alt=\"Windmills around an abandoned barn.\">\n",
+				"content_text": "When the old and the new mix, a new function of mind appears. Was informs now, and rejuvenation of the Spring abides a new moment that reflects the promise of tomorrow while hailing the wonders of the past. #AI #Midjourney #Wind #Barn\n\n<img src=\"uploads/2023/15f11f1ef4.png\" width=\"600\" height=\"600\" alt=\"Windmills around an abandoned barn.\">\n",
 				"date_published": "2023-03-17T11:59:59-04:00",
 				"url": "https://boles.co/2023/03/17/when-the-old.html"
 			},
@@ -651,7 +683,7 @@
 				"id": "http://boles.micro.blog/2023/03/16/if-you-are.html",
 				
 				"content_html": "<p>If you are asked to carry the sun, do it. If you are asked to tote the moon, do it. If you are begged to stretch the horizon between tooth and toe, do it. We live for the achievement and accomplishment. Our integrity is embedded in the disinterested good deed. Make the goodness count! #AI #Horizon</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "If you are asked to carry the sun, do it. If you are asked to tote the moon, do it. If you are begged to stretch the horizon between tooth and toe, do it. We live for the achievement and accomplishment. Our integrity is embedded in the disinterested good deed. Make the goodness count! #AI #Horizon\n\n<img src=\"https://cdn.uploads.micro.blog/97682/2023/905eed2130.png\" width=\"600\" height=\"600\" alt=\"Cartoon man carrying the sun.\">\n",
+				"content_text": "If you are asked to carry the sun, do it. If you are asked to tote the moon, do it. If you are begged to stretch the horizon between tooth and toe, do it. We live for the achievement and accomplishment. Our integrity is embedded in the disinterested good deed. Make the goodness count! #AI #Horizon\n\n<img src=\"uploads/2023/905eed2130.png\" width=\"600\" height=\"600\" alt=\"Cartoon man carrying the sun.\">\n",
 				"date_published": "2023-03-16T15:10:29-04:00",
 				"url": "https://boles.co/2023/03/16/if-you-are.html"
 			},
@@ -659,7 +691,7 @@
 				"id": "http://boles.micro.blog/2023/03/15/friendship-arrives-in.html",
 				
 				"content_html": "<p>Friendship arrives in small delicacies and gigantic indulgences. Do not fear the unknown wonder staring back at you with a wonky gaze. Look up, and embrace a chance from the unknown. Live to wish upon another falling friend, because what you catch might just hug you back! #AI #Midjourney #Friendship</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Friendship arrives in small delicacies and gigantic indulgences. Do not fear the unknown wonder staring back at you with a wonky gaze. Look up, and embrace a chance from the unknown. Live to wish upon another falling friend, because what you catch might just hug you back! #AI #Midjourney #Friendship\n\n<img src=\"https://cdn.uploads.micro.blog/97682/2023/d5aaeb11ea.png\" width=\"600\" height=\"600\" alt=\"Two friends exchanging gifts. One, a small child. The other, a gigantic monster.\">\n",
+				"content_text": "Friendship arrives in small delicacies and gigantic indulgences. Do not fear the unknown wonder staring back at you with a wonky gaze. Look up, and embrace a chance from the unknown. Live to wish upon another falling friend, because what you catch might just hug you back! #AI #Midjourney #Friendship\n\n<img src=\"uploads/2023/d5aaeb11ea.png\" width=\"600\" height=\"600\" alt=\"Two friends exchanging gifts. One, a small child. The other, a gigantic monster.\">\n",
 				"date_published": "2023-03-15T12:33:29-04:00",
 				"url": "https://boles.co/2023/03/15/friendship-arrives-in.html"
 			},
@@ -667,7 +699,7 @@
 				"id": "http://boles.micro.blog/2023/03/14/the-future-behind.html",
 				
 				"content_html": "<p>The future behind you beckons for recognition. Turn around face the inevitable, or keep your eye in the now, and disregard the flesh tearing from your back reaching for your attention. #AI #Midjourney #Photography #Monster</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "The future behind you beckons for recognition. Turn around face the inevitable, or keep your eye in the now, and disregard the flesh tearing from your back reaching for your attention. #AI #Midjourney #Photography #Monster\n\n<img src=\"https://cdn.uploads.micro.blog/97682/2023/06acac8ed2.png\" width=\"600\" height=\"600\" alt=\"Woman holding a camera with a monster behind her.\">\n",
+				"content_text": "The future behind you beckons for recognition. Turn around face the inevitable, or keep your eye in the now, and disregard the flesh tearing from your back reaching for your attention. #AI #Midjourney #Photography #Monster\n\n<img src=\"uploads/2023/06acac8ed2.png\" width=\"600\" height=\"600\" alt=\"Woman holding a camera with a monster behind her.\">\n",
 				"date_published": "2023-03-14T10:22:00-04:00",
 				"url": "https://boles.co/2023/03/14/the-future-behind.html"
 			},
@@ -675,7 +707,7 @@
 				"id": "http://boles.micro.blog/2023/03/13/the-panopticonic-gaze.html",
 				
 				"content_html": "<p>The Panopticonic gaze is always upon us, lazily watching us through droopy eyes and twitching whiskers. The pale, porcelain face glows with the light of a new morning, providing cover for the darkening of the day. We cannot stare away. We become the tamed stray and stay. #AI #Midjourney #Cats</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "The Panopticonic gaze is always upon us, lazily watching us through droopy eyes and twitching whiskers. The pale, porcelain face glows with the light of a new morning, providing cover for the darkening of the day. We cannot stare away. We become the tamed stray and stay. #AI #Midjourney #Cats\n\n<img src=\"https://cdn.uploads.micro.blog/97682/2023/d6e3913a24.png\" width=\"600\" height=\"600\" alt=\"Woman with a decorated hood holds a cat.\">\n",
+				"content_text": "The Panopticonic gaze is always upon us, lazily watching us through droopy eyes and twitching whiskers. The pale, porcelain face glows with the light of a new morning, providing cover for the darkening of the day. We cannot stare away. We become the tamed stray and stay. #AI #Midjourney #Cats\n\n<img src=\"uploads/2023/d6e3913a24.png\" width=\"600\" height=\"600\" alt=\"Woman with a decorated hood holds a cat.\">\n",
 				"date_published": "2023-03-13T13:19:31-04:00",
 				"url": "https://boles.co/2023/03/13/the-panopticonic-gaze.html"
 			},
@@ -683,7 +715,7 @@
 				"id": "http://boles.micro.blog/2023/03/12/we-exist-in.html",
 				
 				"content_html": "<p>We exist in a life searching for greatness and ending in remembrance. We hope to be better than we were born. We make mistakes. We fix the errors of others. In the end, we face ourselves alone, examining our flaws and longing for the moment of reflection that makes it all make sense. #AI #Midjourney</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "We exist in a life searching for greatness and ending in remembrance. We hope to be better than we were born. We make mistakes. We fix the errors of others. In the end, we face ourselves alone, examining our flaws and longing for the moment of reflection that makes it all make sense. #AI #Midjourney\n\n<img src=\"https://cdn.uploads.micro.blog/97682/2023/d1caec2655.png\" width=\"600\" height=\"600\" alt=\"Portraiture of Agamemnon.\">\n",
+				"content_text": "We exist in a life searching for greatness and ending in remembrance. We hope to be better than we were born. We make mistakes. We fix the errors of others. In the end, we face ourselves alone, examining our flaws and longing for the moment of reflection that makes it all make sense. #AI #Midjourney\n\n<img src=\"uploads/2023/d1caec2655.png\" width=\"600\" height=\"600\" alt=\"Portraiture of Agamemnon.\">\n",
 				"date_published": "2023-03-12T12:24:06-04:00",
 				"url": "https://boles.co/2023/03/12/we-exist-in.html"
 			},
@@ -691,7 +723,7 @@
 				"id": "http://boles.micro.blog/2023/03/11/nature-is-wild.html",
 				
 				"content_html": "<p>Nature is wild, and uncontrolled, and beautiful in its essence to beguile and threaten.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Nature is wild, and uncontrolled, and beautiful in its essence to beguile and threaten. \n\n<img src=\"https://cdn.uploads.micro.blog/97682/2023/48d116c6c8.png\" width=\"600\" height=\"600\" alt=\"Great Plains sunset.\">\n",
+				"content_text": "Nature is wild, and uncontrolled, and beautiful in its essence to beguile and threaten. \n\n<img src=\"uploads/2023/48d116c6c8.png\" width=\"600\" height=\"600\" alt=\"Great Plains sunset.\">\n",
 				"date_published": "2023-03-11T14:23:26-04:00",
 				"url": "https://boles.co/2023/03/11/nature-is-wild.html"
 			},
@@ -699,7 +731,7 @@
 				"id": "http://boles.micro.blog/2023/03/10/a-splash-of.html",
 				
 				"content_html": "<p>A splash of luck becomes a splash of life. Color becomes the medium for expression of joy and the eradication of melancholia. We may weep. We may mourn. But in the end, we celebrate the contextualization of the vibrancy of the living. A resonance that sings forever in both tone and hue!</p>\n<p>#AI #AIart</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "A splash of luck becomes a splash of life. Color becomes the medium for expression of joy and the eradication of melancholia. We may weep. We may mourn. But in the end, we celebrate the contextualization of the vibrancy of the living. A resonance that sings forever in both tone and hue!\r\n\r\n#AI #AIart\n\n<img src=\"https://cdn.uploads.micro.blog/97682/2023/08deb7d97b.png\" width=\"600\" height=\"600\" alt=\"Multicolor paint splashing on an apple.\">\n",
+				"content_text": "A splash of luck becomes a splash of life. Color becomes the medium for expression of joy and the eradication of melancholia. We may weep. We may mourn. But in the end, we celebrate the contextualization of the vibrancy of the living. A resonance that sings forever in both tone and hue!\r\n\r\n#AI #AIart\n\n<img src=\"uploads/2023/08deb7d97b.png\" width=\"600\" height=\"600\" alt=\"Multicolor paint splashing on an apple.\">\n",
 				"date_published": "2023-03-10T11:48:18-04:00",
 				"url": "https://boles.co/2023/03/10/a-splash-of.html"
 			},
@@ -707,7 +739,7 @@
 				"id": "http://boles.micro.blog/2023/03/09/oddity-is-good.html",
 				
 				"content_html": "<p>Oddity is good. Not fitting in is smart. Being an outlier is where the real life lives. The world will try to indoctrinate you. You will be put in a line. You will be drawn in a box. Resist the urge to be one of many. Bet on yourself to be your own one and only.</p>\n<p>#AI #AIart #Midjourney #Oddity</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Oddity is good. Not fitting in is smart. Being an outlier is where the real life lives. The world will try to indoctrinate you. You will be put in a line. You will be drawn in a box. Resist the urge to be one of many. Bet on yourself to be your own one and only.\r\n\r\n#AI #AIart #Midjourney #Oddity\n\n<img src=\"https://cdn.uploads.micro.blog/97682/2023/02c62516f7.png\" width=\"600\" height=\"600\" alt=\"A blue oddity with giant eyes. \">\n",
+				"content_text": "Oddity is good. Not fitting in is smart. Being an outlier is where the real life lives. The world will try to indoctrinate you. You will be put in a line. You will be drawn in a box. Resist the urge to be one of many. Bet on yourself to be your own one and only.\r\n\r\n#AI #AIart #Midjourney #Oddity\n\n<img src=\"uploads/2023/02c62516f7.png\" width=\"600\" height=\"600\" alt=\"A blue oddity with giant eyes. \">\n",
 				"date_published": "2023-03-09T16:15:52-04:00",
 				"url": "https://boles.co/2023/03/09/oddity-is-good.html"
 			},
@@ -715,7 +747,7 @@
 				"id": "http://boles.micro.blog/2023/03/08/the-khufu-ship.html",
 				
 				"content_html": "<p>The Khufu Ship sails again! Thanks to imagination, history, and the power of AI.</p>\n<p>#AI #AIart #Midjourney #KhufuShip #Egypt</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "The Khufu Ship sails again! Thanks to imagination, history, and the power of AI.\r\n\r\n#AI #AIart #Midjourney #KhufuShip #Egypt \n\n<img src=\"https://cdn.uploads.micro.blog/97682/2023/5921bb7fcb.png\" width=\"600\" height=\"600\" alt=\"Khufu Ship\">\n",
+				"content_text": "The Khufu Ship sails again! Thanks to imagination, history, and the power of AI.\r\n\r\n#AI #AIart #Midjourney #KhufuShip #Egypt \n\n<img src=\"uploads/2023/5921bb7fcb.png\" width=\"600\" height=\"600\" alt=\"Khufu Ship\">\n",
 				"date_published": "2023-03-08T12:40:14-04:00",
 				"url": "https://boles.co/2023/03/08/the-khufu-ship.html"
 			},
@@ -723,7 +755,7 @@
 				"id": "http://boles.micro.blog/2023/03/07/when-you-meet.html",
 				
 				"content_html": "<p>When you meet evil face to face, what do you do? Stand and fight? Turn and run? Negotiate?</p>\n<p>#AI #AIart #Midjourney #Ram #BlackPhillip #Witch</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "When you meet evil face to face, what do you do? Stand and fight? Turn and run? Negotiate?\r\n\r\n#AI #AIart #Midjourney #Ram #BlackPhillip #Witch \n\n<img src=\"https://cdn.uploads.micro.blog/97682/2023/16623ba95a.png\" width=\"600\" height=\"600\" alt=\"\">\n",
+				"content_text": "When you meet evil face to face, what do you do? Stand and fight? Turn and run? Negotiate?\r\n\r\n#AI #AIart #Midjourney #Ram #BlackPhillip #Witch \n\n<img src=\"uploads/2023/16623ba95a.png\" width=\"600\" height=\"600\" alt=\"\">\n",
 				"date_published": "2023-03-07T15:28:59-04:00",
 				"url": "https://boles.co/2023/03/07/when-you-meet.html"
 			},
@@ -731,7 +763,7 @@
 				"id": "http://boles.micro.blog/2023/03/06/think-boxbreaking-be.html",
 				
 				"content_html": "<p>Think box-breaking. Be daring. Don&rsquo;t let the small whittle you down. There is danger in challenging what people think they know; and there is victory in helping them see the light in your light. Forge your own pathway, but invite others to follow you to the new horizon.</p>\n<p>#AI #AIart #Midjourney #Danger</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Think box-breaking. Be daring. Don't let the small whittle you down. There is danger in challenging what people think they know; and there is victory in helping them see the light in your light. Forge your own pathway, but invite others to follow you to the new horizon.\r\n\r\n#AI #AIart #Midjourney #Danger\n\n<img src=\"https://cdn.uploads.micro.blog/97682/2023/30b89d354a.png\" width=\"600\" height=\"600\" alt=\"A muscular cartoon man lifting himself from being trapped inside a box.\">\n",
+				"content_text": "Think box-breaking. Be daring. Don't let the small whittle you down. There is danger in challenging what people think they know; and there is victory in helping them see the light in your light. Forge your own pathway, but invite others to follow you to the new horizon.\r\n\r\n#AI #AIart #Midjourney #Danger\n\n<img src=\"uploads/2023/30b89d354a.png\" width=\"600\" height=\"600\" alt=\"A muscular cartoon man lifting himself from being trapped inside a box.\">\n",
 				"date_published": "2023-03-06T12:59:54-04:00",
 				"url": "https://boles.co/2023/03/06/think-boxbreaking-be.html"
 			},
@@ -739,7 +771,7 @@
 				"id": "http://boles.micro.blog/2023/03/05/the-eruption-of.html",
 				
 				"content_html": "<p>The eruption of purpose doesn&rsquo;t happen in every life. Some people are placeholders. Others are sketches in need of definition. Bold prosecution of performance requires risk, and gumption, and a drive to make a mark that may not last forever. Divinity is in the effort to want.</p>\n<p>#AI</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "The eruption of purpose doesn't happen in every life. Some people are placeholders. Others are sketches in need of definition. Bold prosecution of performance requires risk, and gumption, and a drive to make a mark that may not last forever. Divinity is in the effort to want.\r\n\r\n#AI\n\n<img src=\"https://cdn.uploads.micro.blog/97682/2023/6225b4ae47.png\" width=\"600\" height=\"600\" alt=\"Grey, muscular, mythical, statue.\">\n",
+				"content_text": "The eruption of purpose doesn't happen in every life. Some people are placeholders. Others are sketches in need of definition. Bold prosecution of performance requires risk, and gumption, and a drive to make a mark that may not last forever. Divinity is in the effort to want.\r\n\r\n#AI\n\n<img src=\"uploads/2023/6225b4ae47.png\" width=\"600\" height=\"600\" alt=\"Grey, muscular, mythical, statue.\">\n",
 				"date_published": "2023-03-05T15:26:50-04:00",
 				"url": "https://boles.co/2023/03/05/the-eruption-of.html"
 			},
@@ -747,7 +779,7 @@
 				"id": "http://boles.micro.blog/2023/03/04/tea-is-the.html",
 				
 				"content_html": "<p>Tea is the steeped beginning to the end. The world in your tempest. Touch the universe on your lips. All continental sorrows drown away against the seaside tongue. The vessel of the throat sings out with the dignity of the forgotten and the honorific of the blessed.</p>\n<p>#AI #AIart #Midjourney #World #Tea</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Tea is the steeped beginning to the end. The world in your tempest. Touch the universe on your lips. All continental sorrows drown away against the seaside tongue. The vessel of the throat sings out with the dignity of the forgotten and the honorific of the blessed.\r\n\r\n#AI #AIart #Midjourney #World #Tea\n\n<img src=\"https://cdn.uploads.micro.blog/97682/2023/729c6267f3.png\" width=\"600\" height=\"600\" alt=\"A glassy teapot holding the contents of the world.\">\n",
+				"content_text": "Tea is the steeped beginning to the end. The world in your tempest. Touch the universe on your lips. All continental sorrows drown away against the seaside tongue. The vessel of the throat sings out with the dignity of the forgotten and the honorific of the blessed.\r\n\r\n#AI #AIart #Midjourney #World #Tea\n\n<img src=\"uploads/2023/729c6267f3.png\" width=\"600\" height=\"600\" alt=\"A glassy teapot holding the contents of the world.\">\n",
 				"date_published": "2023-03-04T19:12:04-04:00",
 				"url": "https://boles.co/2023/03/04/tea-is-the.html"
 			},
@@ -755,7 +787,7 @@
 				"id": "http://boles.micro.blog/2023/03/03/the-mechanisms-of.html",
 				
 				"content_html": "<p>The mechanisms of the living are found in the levers of the heart. Bright, shiny, objects distress the shrine keeper while confirming the threat to life in the gears of death.</p>\n<p>#AI #AIart #Midjourney #Crow #Heart</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "The mechanisms of the living are found in the levers of the heart. Bright, shiny, objects distress the shrine keeper while confirming the threat to life in the gears of death.\r\n\r\n#AI #AIart #Midjourney #Crow #Heart \n\n<img src=\"https://cdn.uploads.micro.blog/97682/2023/f747770d06.png\" width=\"600\" height=\"600\" alt=\"Black crow with a mechanical heart.\">\n",
+				"content_text": "The mechanisms of the living are found in the levers of the heart. Bright, shiny, objects distress the shrine keeper while confirming the threat to life in the gears of death.\r\n\r\n#AI #AIart #Midjourney #Crow #Heart \n\n<img src=\"uploads/2023/f747770d06.png\" width=\"600\" height=\"600\" alt=\"Black crow with a mechanical heart.\">\n",
 				"date_published": "2023-03-03T13:34:05-04:00",
 				"url": "https://boles.co/2023/03/03/the-mechanisms-of.html"
 			},
@@ -763,7 +795,7 @@
 				"id": "http://boles.micro.blog/2023/03/02/for-some-reason.html",
 				
 				"content_html": "<p>For some reason, in 2017, artist Hayato Kageyama decided to draw this caricature of me. I have never met Hayato, and when I thanked him for the drawing he posted of me on his Twitter account, he never replied. This is one of the odd, and curious &ndash; but cherished! &ndash; gifts of my life!</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "For some reason, in 2017, artist Hayato Kageyama decided to draw this caricature of me. I have never met Hayato, and when I thanked him for the drawing he posted of me on his Twitter account, he never replied. This is one of the odd, and curious -- but cherished! -- gifts of my life! \n\n<img src=\"https://cdn.uploads.micro.blog/97682/2023/a949af1395.jpg\" width=\"461\" height=\"600\" alt=\"Hayato Kageyama caricature of David Boles\">\n",
+				"content_text": "For some reason, in 2017, artist Hayato Kageyama decided to draw this caricature of me. I have never met Hayato, and when I thanked him for the drawing he posted of me on his Twitter account, he never replied. This is one of the odd, and curious -- but cherished! -- gifts of my life! \n\n<img src=\"uploads/2023/a949af1395.jpg\" width=\"461\" height=\"600\" alt=\"Hayato Kageyama caricature of David Boles\">\n",
 				"date_published": "2023-03-02T10:15:04-04:00",
 				"url": "https://boles.co/2023/03/02/for-some-reason.html"
 			},
@@ -771,7 +803,7 @@
 				"id": "http://boles.micro.blog/2023/03/01/the-beast-only.html",
 				
 				"content_html": "<p>The beast only buzzes once, but stings twice. Once when you&rsquo;re looking. The second when you&rsquo;re staring away.</p>\n<p>#AI #AIart #Midjourney #Wasp</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "The beast only buzzes once, but stings twice. Once when you're looking. The second when you're staring away. \r\n\r\n#AI #AIart #Midjourney #Wasp \n\n<img src=\"https://cdn.uploads.micro.blog/97682/2023/e46af966d4.png\" width=\"600\" height=\"600\" alt=\"A black and gold wasp.\">\n",
+				"content_text": "The beast only buzzes once, but stings twice. Once when you're looking. The second when you're staring away. \r\n\r\n#AI #AIart #Midjourney #Wasp \n\n<img src=\"uploads/2023/e46af966d4.png\" width=\"600\" height=\"600\" alt=\"A black and gold wasp.\">\n",
 				"date_published": "2023-03-01T15:47:13-04:00",
 				"url": "https://boles.co/2023/03/01/the-beast-only.html"
 			},
@@ -779,7 +811,7 @@
 				"id": "http://boles.micro.blog/2023/02/28/im-funny-how.html",
 				
 				"content_html": "<p>&ldquo;I&rsquo;m funny how, I mean funny like I&rsquo;m a clown? I amuse you? I make you laugh? I&rsquo;m here to f*cking amuse you?&rdquo;</p>\n<p>#AI #AIart #Midjourney #Clown #Goodfellas</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "\"I'm funny how, I mean funny like I'm a clown? I amuse you? I make you laugh? I'm here to f*cking amuse you?\"\r\n\r\n#AI #AIart #Midjourney #Clown #Goodfellas\n\n<img src=\"https://cdn.uploads.micro.blog/97682/2023/2a56e3324f.png\" width=\"600\" height=\"600\" alt=\"Crying Clown.\">\n",
+				"content_text": "\"I'm funny how, I mean funny like I'm a clown? I amuse you? I make you laugh? I'm here to f*cking amuse you?\"\r\n\r\n#AI #AIart #Midjourney #Clown #Goodfellas\n\n<img src=\"uploads/2023/2a56e3324f.png\" width=\"600\" height=\"600\" alt=\"Crying Clown.\">\n",
 				"date_published": "2023-02-28T11:36:15-04:00",
 				"url": "https://boles.co/2023/02/28/im-funny-how.html"
 			},
@@ -787,7 +819,7 @@
 				"id": "http://boles.micro.blog/2023/02/27/and-the-pale.html",
 				
 				"content_html": "<p>And the Pale Rider was upon us in snakes of dust and bloodlets of lust, leading us unto death, daring us with pride from Hell, and trailing us with the cold bones of the grave, reminding us of not just what we&rsquo;d left behind, but what we&rsquo;d become.</p>\n<p>#AI #AIart #Midjourney</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "And the Pale Rider was upon us in snakes of dust and bloodlets of lust, leading us unto death, daring us with pride from Hell, and trailing us with the cold bones of the grave, reminding us of not just what we'd left behind, but what we'd become. \r\n\r\n#AI #AIart #Midjourney \n\n<img src=\"https://cdn.uploads.micro.blog/97682/2023/dd3b6cf8a2.png\" width=\"600\" height=\"600\" alt=\"A red Pale Rider on a white horse.\">\n",
+				"content_text": "And the Pale Rider was upon us in snakes of dust and bloodlets of lust, leading us unto death, daring us with pride from Hell, and trailing us with the cold bones of the grave, reminding us of not just what we'd left behind, but what we'd become. \r\n\r\n#AI #AIart #Midjourney \n\n<img src=\"uploads/2023/dd3b6cf8a2.png\" width=\"600\" height=\"600\" alt=\"A red Pale Rider on a white horse.\">\n",
 				"date_published": "2023-02-27T14:39:44-04:00",
 				"url": "https://boles.co/2023/02/27/and-the-pale.html"
 			},
@@ -795,7 +827,7 @@
 				"id": "http://boles.micro.blog/2023/02/26/the-exploration-of.html",
 				
 				"content_html": "<p>The exploration of imagination saves us from the ordinary life, the average life; the life of an unforgiven stasis. When we gamble on the unknown, and its promise of a more dangerous tomorrow, we are becoming the promise of the pioneer, floating, but touching solid ground.</p>\n<p>#AI</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "The exploration of imagination saves us from the ordinary life, the average life; the life of an unforgiven stasis. When we gamble on the unknown, and its promise of a more dangerous tomorrow, we are becoming the promise of the pioneer, floating, but touching solid ground.\r\n\r\n#AI\n\n<img src=\"https://cdn.uploads.micro.blog/97682/2023/e6bbfd8279.png\" width=\"600\" height=\"600\" alt=\"Astronaut on a field of blossoms.\">\n",
+				"content_text": "The exploration of imagination saves us from the ordinary life, the average life; the life of an unforgiven stasis. When we gamble on the unknown, and its promise of a more dangerous tomorrow, we are becoming the promise of the pioneer, floating, but touching solid ground.\r\n\r\n#AI\n\n<img src=\"uploads/2023/e6bbfd8279.png\" width=\"600\" height=\"600\" alt=\"Astronaut on a field of blossoms.\">\n",
 				"date_published": "2023-02-26T15:44:25-04:00",
 				"url": "https://boles.co/2023/02/26/the-exploration-of.html"
 			},
@@ -803,7 +835,7 @@
 				"id": "http://boles.micro.blog/2023/02/25/we-live-in.html",
 				
 				"content_html": "<p>We live in the Panopticon, not the Public Square. We are not here to be heard. We are here to be watched, observed, corrected, and punished for snaking outside the norm of expectation. Of course, we&rsquo;re told it&rsquo;s an honor to be watched, creeped upon, at shot at from the street.</p>\n<p>#AI</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "We live in the Panopticon, not the Public Square. We are not here to be heard. We are here to be watched, observed, corrected, and punished for snaking outside the norm of expectation. Of course, we're told it's an honor to be watched, creeped upon, at shot at from the street.\r\n\r\n#AI\n\n<img src=\"https://cdn.uploads.micro.blog/97682/2023/79452ad4bc.png\" width=\"600\" height=\"600\" alt=\"Multicolor Cat wearing goggles.\">\n",
+				"content_text": "We live in the Panopticon, not the Public Square. We are not here to be heard. We are here to be watched, observed, corrected, and punished for snaking outside the norm of expectation. Of course, we're told it's an honor to be watched, creeped upon, at shot at from the street.\r\n\r\n#AI\n\n<img src=\"uploads/2023/79452ad4bc.png\" width=\"600\" height=\"600\" alt=\"Multicolor Cat wearing goggles.\">\n",
 				"date_published": "2023-02-25T16:51:36-04:00",
 				"url": "https://boles.co/2023/02/25/we-live-in.html"
 			},
@@ -811,7 +843,7 @@
 				"id": "http://boles.micro.blog/2023/02/24/we-travel-along.html",
 				
 				"content_html": "<p>We travel along, itinerant passengers on a Ghost Ship. Our destination is circular, and filled with the pageantry of distress, and overcoming. If we leap, we finish; stay, we crumble. The choice is always between the unknowable life of the living and the known end.</p>\n<p>#AI #Midjourney</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "We travel along, itinerant passengers on a Ghost Ship. Our destination is circular, and filled with the pageantry of distress, and overcoming. If we leap, we finish; stay, we crumble. The choice is always between the unknowable life of the living and the known end.\r\n\r\n#AI #Midjourney\n\n<img src=\"https://cdn.uploads.micro.blog/97682/2023/aabf90d406.png\" width=\"600\" height=\"600\" alt=\"Ghost Ship lost on the high seas.\">\n",
+				"content_text": "We travel along, itinerant passengers on a Ghost Ship. Our destination is circular, and filled with the pageantry of distress, and overcoming. If we leap, we finish; stay, we crumble. The choice is always between the unknowable life of the living and the known end.\r\n\r\n#AI #Midjourney\n\n<img src=\"uploads/2023/aabf90d406.png\" width=\"600\" height=\"600\" alt=\"Ghost Ship lost on the high seas.\">\n",
 				"date_published": "2023-02-24T12:09:23-04:00",
 				"url": "https://boles.co/2023/02/24/we-travel-along.html"
 			},
@@ -819,7 +851,7 @@
 				"id": "http://boles.micro.blog/2023/02/23/in-our-sleep.html",
 				
 				"content_html": "<p>&ldquo;In our sleep, pain which cannot forget falls drop by drop upon the heart until, in our own despair, against our will, comes wisdom through the awful grace of God.&rdquo;</p>\n<p>~~ From the Aeschylus play, &ldquo;Agamemnon&rdquo; written in 458 BCE</p>\n<p>#AI #AIART #Midjourney #Theatre #Tragedy</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "\"In our sleep, pain which cannot forget falls drop by drop upon the heart until, in our own despair, against our will, comes wisdom through the awful grace of God.\" \r\n\r\n~~ From the Aeschylus play, \"Agamemnon\" written in 458 BCE\r\n\r\n#AI #AIART #Midjourney #Theatre #Tragedy\n\n<img src=\"https://cdn.uploads.micro.blog/97682/2023/784dd21029.png\" width=\"461\" height=\"600\" alt=\"Pain dripping on a human shape in space.\">\n",
+				"content_text": "\"In our sleep, pain which cannot forget falls drop by drop upon the heart until, in our own despair, against our will, comes wisdom through the awful grace of God.\" \r\n\r\n~~ From the Aeschylus play, \"Agamemnon\" written in 458 BCE\r\n\r\n#AI #AIART #Midjourney #Theatre #Tragedy\n\n<img src=\"uploads/2023/784dd21029.png\" width=\"461\" height=\"600\" alt=\"Pain dripping on a human shape in space.\">\n",
 				"date_published": "2023-02-23T14:35:16-04:00",
 				"url": "https://boles.co/2023/02/23/in-our-sleep.html"
 			},
@@ -827,7 +859,7 @@
 				"id": "http://boles.micro.blog/2023/02/22/we-are-haunted.html",
 				
 				"content_html": "<p>We are haunted by our deficits, of what could have been, of what might have worked. We are reminded of those losses by a familiar scent that strings us back to that moment of indecision and hidden righteousness &ndash; and it is in that moment of revisitation that we are set free.</p>\n<p>#AI</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "We are haunted by our deficits, of what could have been, of what might have worked. We are reminded of those losses by a familiar scent that strings us back to that moment of indecision and hidden righteousness -- and it is in that moment of revisitation that we are set free.\r\n\r\n#AI \n\n<img src=\"https://cdn.uploads.micro.blog/97682/2023/11e2a8131d.png\" width=\"600\" height=\"600\" alt=\"Skull playing card dressed in green.\">\n",
+				"content_text": "We are haunted by our deficits, of what could have been, of what might have worked. We are reminded of those losses by a familiar scent that strings us back to that moment of indecision and hidden righteousness -- and it is in that moment of revisitation that we are set free.\r\n\r\n#AI \n\n<img src=\"uploads/2023/11e2a8131d.png\" width=\"600\" height=\"600\" alt=\"Skull playing card dressed in green.\">\n",
 				"date_published": "2023-02-22T13:53:01-04:00",
 				"url": "https://boles.co/2023/02/22/we-are-haunted.html"
 			},
@@ -835,7 +867,7 @@
 				"id": "http://boles.micro.blog/2023/02/21/that-moment-when.html",
 				
 				"content_html": "<p>That moment when you realize the tool that created you might just have a few other uses.</p>\n<p>#AI #Midjourney #Claymation #Cats</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "That moment when you realize the tool that created you might just have a few other uses.\r\n\r\n#AI #Midjourney #Claymation #Cats\n\n<img src=\"https://cdn.uploads.micro.blog/97682/2023/39527b8f86.png\" width=\"600\" height=\"600\" alt=\"Three Clay Cats looking at a sharp tool.\">\n",
+				"content_text": "That moment when you realize the tool that created you might just have a few other uses.\r\n\r\n#AI #Midjourney #Claymation #Cats\n\n<img src=\"uploads/2023/39527b8f86.png\" width=\"600\" height=\"600\" alt=\"Three Clay Cats looking at a sharp tool.\">\n",
 				"date_published": "2023-02-21T11:53:39-04:00",
 				"url": "https://boles.co/2023/02/21/that-moment-when.html"
 			},
@@ -843,7 +875,7 @@
 				"id": "http://boles.micro.blog/2023/02/20/they-mystery-of.html",
 				
 				"content_html": "<p>The mystery of the dead is rarely visited upon the living. The undead, however, have a lot to stay to both sides of the grave! As Saint John the Divine said, &ldquo;The dead never come back, but sometimes they never leave.&rdquo;</p>\n<p>#AI #Dead #Undead #Midjourney #SaintJohn</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "The mystery of the dead is rarely visited upon the living. The undead, however, have a lot to stay to both sides of the grave! As Saint John the Divine said, \"The dead never come back, but sometimes they never leave.\" \n\n#AI #Dead #Undead #Midjourney #SaintJohn \n\n<img src=\"https://cdn.uploads.micro.blog/97682/2023/a9f9b4b9a4.png\" width=\"600\" height=\"600\" alt=\"Sun breaking the moon in neon space.\">\n",
+				"content_text": "The mystery of the dead is rarely visited upon the living. The undead, however, have a lot to stay to both sides of the grave! As Saint John the Divine said, \"The dead never come back, but sometimes they never leave.\" \n\n#AI #Dead #Undead #Midjourney #SaintJohn \n\n<img src=\"uploads/2023/a9f9b4b9a4.png\" width=\"600\" height=\"600\" alt=\"Sun breaking the moon in neon space.\">\n",
 				"date_published": "2023-02-20T15:09:55-04:00",
 				"url": "https://boles.co/2023/02/20/they-mystery-of.html",
 				"tags": ["AI","Mastodon","Federation","Boles","Writing","Publishing"]
@@ -852,7 +884,7 @@
 				"id": "http://boles.micro.blog/2023/02/19/the-dying-king.html",
 				
 				"content_html": "<p>The dying King decays in the misfortune of his own disgrace. Wrong headed. Poorly discipled. Wretched of both heart and mind; and made invulnerable to consequence only by favor of birth. And so we suffer until the last breath is exhaled; and we inhale freedom. #AI #Midjourney</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "The dying King decays in the misfortune of his own disgrace. Wrong headed. Poorly discipled. Wretched of both heart and mind; and made invulnerable to consequence only by favor of birth. And so we suffer until the last breath is exhaled; and we inhale freedom. #AI #Midjourney\n\n<img src=\"https://cdn.uploads.micro.blog/97682/2023/ff171edb6d.png\" width=\"600\" height=\"600\" alt=\"\">\n",
+				"content_text": "The dying King decays in the misfortune of his own disgrace. Wrong headed. Poorly discipled. Wretched of both heart and mind; and made invulnerable to consequence only by favor of birth. And so we suffer until the last breath is exhaled; and we inhale freedom. #AI #Midjourney\n\n<img src=\"uploads/2023/ff171edb6d.png\" width=\"600\" height=\"600\" alt=\"\">\n",
 				"date_published": "2023-02-19T11:54:09-04:00",
 				"url": "https://boles.co/2023/02/19/the-dying-king.html"
 			},
@@ -860,7 +892,7 @@
 				"id": "http://boles.micro.blog/2023/02/18/in-the-usa.html",
 				
 				"content_html": "<p>In the USA your job defines you. The first question most people ask is, &ldquo;Where do you work?&rdquo; We live in the 9-5. We die at the water cooler. We dream of greater things only at night when the dusk settles around us and reality shows us what might have been.</p>\n<p>#AI #Work #Dreaming</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "In the USA your job defines you. The first question most people ask is, \"Where do you work?\" We live in the 9-5. We die at the water cooler. We dream of greater things only at night when the dusk settles around us and reality shows us what might have been. \r\n\r\n#AI #Work #Dreaming\n\n<img src=\"https://cdn.uploads.micro.blog/97682/2023/8bf7d4ec62.png\" width=\"457\" height=\"600\" alt=\"Spacewalker.\">\n",
+				"content_text": "In the USA your job defines you. The first question most people ask is, \"Where do you work?\" We live in the 9-5. We die at the water cooler. We dream of greater things only at night when the dusk settles around us and reality shows us what might have been. \r\n\r\n#AI #Work #Dreaming\n\n<img src=\"uploads/2023/8bf7d4ec62.png\" width=\"457\" height=\"600\" alt=\"Spacewalker.\">\n",
 				"date_published": "2023-02-18T09:45:10-04:00",
 				"url": "https://boles.co/2023/02/18/in-the-usa.html"
 			},
@@ -868,7 +900,7 @@
 				"id": "http://boles.micro.blog/2023/02/17/its-currently-degrees.html",
 				
 				"content_html": "<p>It&rsquo;s currently 57 degrees in NYC with an expected high today of 63 degrees. We&rsquo;ve had the windows open all day and all night for the past three days. It&rsquo;s February 17. Now is the unwinter of our discontent!</p>\n<p>#Weather #Sun #Heat #ClimateChange</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "It's currently 57 degrees in NYC with an expected high today of 63 degrees. We've had the windows open all day and all night for the past three days. It's February 17. Now is the unwinter of our discontent! \r\n\r\n#Weather #Sun #Heat #ClimateChange\n\n<img src=\"https://cdn.uploads.micro.blog/97682/2023/2939c678bc.png\" width=\"600\" height=\"600\" alt=\"Spikey Neon Sun\">\n",
+				"content_text": "It's currently 57 degrees in NYC with an expected high today of 63 degrees. We've had the windows open all day and all night for the past three days. It's February 17. Now is the unwinter of our discontent! \r\n\r\n#Weather #Sun #Heat #ClimateChange\n\n<img src=\"uploads/2023/2939c678bc.png\" width=\"600\" height=\"600\" alt=\"Spikey Neon Sun\">\n",
 				"date_published": "2023-02-17T08:33:59-04:00",
 				"url": "https://boles.co/2023/02/17/its-currently-degrees.html"
 			},
@@ -876,7 +908,7 @@
 				"id": "http://boles.micro.blog/2023/02/16/i-have-no.html",
 				
 				"content_html": "<p>&ldquo;I have no spur to prick the sides of my intent, but only vaulting ambition, which o&rsquo;erleaps itself and falls on the other.&rdquo; Back in 1606, Shakepeare&rsquo;s Macbeth was the template for the shameless, modern, online Troll.  Ambition outweighs performance. #AI #Macbeth #Shakespeare</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "\"I have no spur to prick the sides of my intent, but only vaulting ambition, which o'erleaps itself and falls on the other.\" Back in 1606, Shakepeare's Macbeth was the template for the shameless, modern, online Troll.  Ambition outweighs performance. #AI #Macbeth #Shakespeare\n\n<img src=\"https://cdn.uploads.micro.blog/97682/2023/f0bbff3ae6.png\" width=\"600\" height=\"600\" alt=\"Macbeth, the Troll.\">\n",
+				"content_text": "\"I have no spur to prick the sides of my intent, but only vaulting ambition, which o'erleaps itself and falls on the other.\" Back in 1606, Shakepeare's Macbeth was the template for the shameless, modern, online Troll.  Ambition outweighs performance. #AI #Macbeth #Shakespeare\n\n<img src=\"uploads/2023/f0bbff3ae6.png\" width=\"600\" height=\"600\" alt=\"Macbeth, the Troll.\">\n",
 				"date_published": "2023-02-16T16:13:07-04:00",
 				"url": "https://boles.co/2023/02/16/i-have-no.html"
 			},
@@ -884,7 +916,7 @@
 				"id": "http://boles.micro.blog/2023/02/15/our-stake-is.html",
 				
 				"content_html": "<p>Our stake is not just the misery of memory, but rather the promise of lonesome hauntings to come. We prick, we steal, we love, we overcome; but the lonely, and the forgotten, become but veils among us.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Our stake is not just the misery of memory, but rather the promise of lonesome hauntings to come. We prick, we steal, we love, we overcome; but the lonely, and the forgotten, become but veils among us.\n\n<img src=\"https://cdn.uploads.micro.blog/97682/2023/a8021c728e.png\" width=\"457\" height=\"600\" alt=\"Mysterious person in a black, green, purple and black void.\">\n",
+				"content_text": "Our stake is not just the misery of memory, but rather the promise of lonesome hauntings to come. We prick, we steal, we love, we overcome; but the lonely, and the forgotten, become but veils among us.\n\n<img src=\"uploads/2023/a8021c728e.png\" width=\"457\" height=\"600\" alt=\"Mysterious person in a black, green, purple and black void.\">\n",
 				"date_published": "2023-02-15T12:46:06-04:00",
 				"url": "https://boles.co/2023/02/15/our-stake-is.html"
 			},
@@ -892,7 +924,7 @@
 				"id": "http://boles.micro.blog/2023/02/14/internet-trolls-are.html",
 				
 				"content_html": "<p>Internet Trolls are everywhere and, as I discovered, they also do lively work in the Fediverse. One Troll just reported me &ndash; to myself, on my own instance &ndash; for &ldquo;promoting false Art&rdquo; and, it appears, for advancing the downfall of society by creating AI Art. #AI #Midjourney</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Internet Trolls are everywhere and, as I discovered, they also do lively work in the Fediverse. One Troll just reported me -- to myself, on my own instance -- for \"promoting false Art\" and, it appears, for advancing the downfall of society by creating AI Art. #AI #Midjourney\n\n<img src=\"https://cdn.uploads.micro.blog/97682/2023/cf44649fc3.png\" width=\"600\" height=\"600\" alt=\"Censored mouth in the Fediverse.\">\n",
+				"content_text": "Internet Trolls are everywhere and, as I discovered, they also do lively work in the Fediverse. One Troll just reported me -- to myself, on my own instance -- for \"promoting false Art\" and, it appears, for advancing the downfall of society by creating AI Art. #AI #Midjourney\n\n<img src=\"uploads/2023/cf44649fc3.png\" width=\"600\" height=\"600\" alt=\"Censored mouth in the Fediverse.\">\n",
 				"date_published": "2023-02-14T09:09:56-04:00",
 				"url": "https://boles.co/2023/02/14/internet-trolls-are.html"
 			},
@@ -900,7 +932,7 @@
 				"id": "http://boles.micro.blog/2023/02/13/in-our-modern.html",
 				
 				"content_html": "<p>In our modern society, we have lost the idea of shame to correct bad behavior. The shameless now pointlessly leads us into the depths of their despair. What have we lost in this transition of acceptable morality? I&rsquo;ll discuss this in depth on tomorrow&rsquo;s Boles.tv live stream!</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "In our modern society, we have lost the idea of shame to correct bad behavior. The shameless now pointlessly leads us into the depths of their despair. What have we lost in this transition of acceptable morality? I'll discuss this in depth on tomorrow's Boles.tv live stream!\n\n<img src=\"https://cdn.uploads.micro.blog/97682/2023/5311e3fcb2.png\" width=\"600\" height=\"600\" alt=\"\">\n",
+				"content_text": "In our modern society, we have lost the idea of shame to correct bad behavior. The shameless now pointlessly leads us into the depths of their despair. What have we lost in this transition of acceptable morality? I'll discuss this in depth on tomorrow's Boles.tv live stream!\n\n<img src=\"uploads/2023/5311e3fcb2.png\" width=\"600\" height=\"600\" alt=\"\">\n",
 				"date_published": "2023-02-13T12:09:40-04:00",
 				"url": "https://boles.co/2023/02/13/in-our-modern.html"
 			},
@@ -908,7 +940,7 @@
 				"id": "http://boles.micro.blog/2023/02/12/willa-cather-taught.html",
 				
 				"content_html": "<p>Willa Cather taught us the throat is a vessel, a beautiful vase for releasing, and holding, the emotion of the human condition. We open our throats to fullest expression, she said, by turning our face to the light and lifting our chins to the sun in song.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Willa Cather taught us the throat is a vessel, a beautiful vase for releasing, and holding, the emotion of the human condition. We open our throats to fullest expression, she said, by turning our face to the light and lifting our chins to the sun in song.\n\n<img src=\"https://cdn.uploads.micro.blog/97682/2023/b19195147a.png\" width=\"456\" height=\"600\" alt=\"\">\n",
+				"content_text": "Willa Cather taught us the throat is a vessel, a beautiful vase for releasing, and holding, the emotion of the human condition. We open our throats to fullest expression, she said, by turning our face to the light and lifting our chins to the sun in song.\n\n<img src=\"uploads/2023/b19195147a.png\" width=\"456\" height=\"600\" alt=\"\">\n",
 				"date_published": "2023-02-12T09:35:50-04:00",
 				"url": "https://boles.co/2023/02/12/willa-cather-taught.html"
 			},
@@ -916,7 +948,7 @@
 				"id": "http://boles.micro.blog/2023/02/11/in-the-old.html",
 				
 				"content_html": "<p>In the old days of the 40&rsquo;s and 50&rsquo;s, in big American cities, there were watchers. Police patrolled neighborhood on foot. Grandmothers would keep eyes on the street from their windows. If you did anything bad, you were seen, caught, and publicly shamed. Watching worked.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "In the old days of the 40's and 50's, in big American cities, there were watchers. Police patrolled neighborhood on foot. Grandmothers would keep eyes on the street from their windows. If you did anything bad, you were seen, caught, and publicly shamed. Watching worked.\n\n<img src=\"https://cdn.uploads.micro.blog/97682/2023/16ca3e4039.png\" width=\"600\" height=\"600\" alt=\"\">\n",
+				"content_text": "In the old days of the 40's and 50's, in big American cities, there were watchers. Police patrolled neighborhood on foot. Grandmothers would keep eyes on the street from their windows. If you did anything bad, you were seen, caught, and publicly shamed. Watching worked.\n\n<img src=\"uploads/2023/16ca3e4039.png\" width=\"600\" height=\"600\" alt=\"\">\n",
 				"date_published": "2023-02-11T15:31:36-04:00",
 				"url": "https://boles.co/2023/02/11/in-the-old.html"
 			},
@@ -924,7 +956,7 @@
 				"id": "http://boles.micro.blog/2023/02/10/this-goths-bernie.html",
 				
 				"content_html": "<p>This &ldquo;Goths 4 Bernie&rdquo; sign is one of my favorite presidential campaign slogans ever! There was a delicate innocence in the gathering together. That was a day in April 2016 when Bernie spoke to 27,000 people, and rocked Greenwich Square Park.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "This \"Goths 4 Bernie\" sign is one of my favorite presidential campaign slogans ever! There was a delicate innocence in the gathering together. That was a day in April 2016 when Bernie spoke to 27,000 people, and rocked Greenwich Square Park.\n\n<img src=\"https://cdn.uploads.micro.blog/97682/2023/57092d7a64.jpg\" width=\"560\" height=\"600\" alt=\"\">\n",
+				"content_text": "This \"Goths 4 Bernie\" sign is one of my favorite presidential campaign slogans ever! There was a delicate innocence in the gathering together. That was a day in April 2016 when Bernie spoke to 27,000 people, and rocked Greenwich Square Park.\n\n<img src=\"uploads/2023/57092d7a64.jpg\" width=\"560\" height=\"600\" alt=\"\">\n",
 				"date_published": "2023-02-10T15:18:05-04:00",
 				"url": "https://boles.co/2023/02/10/this-goths-bernie.html"
 			},
@@ -932,7 +964,7 @@
 				"id": "http://boles.micro.blog/2023/02/09/the-bridge-to.html",
 				
 				"content_html": "<p>The bridge to nowhere begins with a mind of your own. No mind is an island.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "The bridge to nowhere begins with a mind of your own. No mind is an island.\n\n<img src=\"https://cdn.uploads.micro.blog/97682/2023/ee13097106.png\" width=\"456\" height=\"600\" alt=\"\">\n",
+				"content_text": "The bridge to nowhere begins with a mind of your own. No mind is an island.\n\n<img src=\"uploads/2023/ee13097106.png\" width=\"456\" height=\"600\" alt=\"\">\n",
 				"date_published": "2023-02-09T19:22:18-04:00",
 				"url": "https://boles.co/2023/02/09/the-bridge-to.html"
 			},
@@ -940,7 +972,7 @@
 				"id": "http://boles.micro.blog/2023/02/08/my-wife-bought.html",
 				
 				"content_html": "<p>My wife bought bread and was 13 cents short. She only had cash, her card was in her office. The cashier said it was fine. Later, my wife returned to the store with her card, bought more items, and explained to a new cashier to add 13 cents. The cashier said, &ldquo;Why do you care?&rdquo;</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "My wife bought bread and was 13 cents short. She only had cash, her card was in her office. The cashier said it was fine. Later, my wife returned to the store with her card, bought more items, and explained to a new cashier to add 13 cents. The cashier said, \"Why do you care?\"\n\n<img src=\"https://cdn.uploads.micro.blog/97682/2023/38d621bf38.png\" width=\"600\" height=\"600\" alt=\"\">\n",
+				"content_text": "My wife bought bread and was 13 cents short. She only had cash, her card was in her office. The cashier said it was fine. Later, my wife returned to the store with her card, bought more items, and explained to a new cashier to add 13 cents. The cashier said, \"Why do you care?\"\n\n<img src=\"uploads/2023/38d621bf38.png\" width=\"600\" height=\"600\" alt=\"\">\n",
 				"date_published": "2023-02-08T12:02:42-04:00",
 				"url": "https://boles.co/2023/02/08/my-wife-bought.html"
 			},
@@ -948,7 +980,7 @@
 				"id": "http://boles.micro.blog/2023/02/07/discovery-of-what.html",
 				
 				"content_html": "<p>Discovery of what surrounds us can be lost and forgotten in the moment. A human life requires new insights and open senses. To understand for the first time is to know forever.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Discovery of what surrounds us can be lost and forgotten in the moment. A human life requires new insights and open senses. To understand for the first time is to know forever. \n\n<img src=\"https://cdn.uploads.micro.blog/97682/2023/527d7f036a.png\" width=\"600\" height=\"600\" alt=\"\">\n",
+				"content_text": "Discovery of what surrounds us can be lost and forgotten in the moment. A human life requires new insights and open senses. To understand for the first time is to know forever. \n\n<img src=\"uploads/2023/527d7f036a.png\" width=\"600\" height=\"600\" alt=\"\">\n",
 				"date_published": "2023-02-07T11:26:36-04:00",
 				"url": "https://boles.co/2023/02/07/discovery-of-what.html"
 			},
@@ -956,7 +988,7 @@
 				"id": "http://boles.micro.blog/2023/02/06/our-comcast-cable.html",
 				
 				"content_html": "<p>Our Comcast cable box has been out for a week. Glad we have Apple TV and the Xfinity streaming App. Turns out the box was fine, but the AC adapter was faulty, and recalled a year ago! At least we were able to get upgraded to the impossible-to-get XB8 modem, so all was not lost.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Our Comcast cable box has been out for a week. Glad we have Apple TV and the Xfinity streaming App. Turns out the box was fine, but the AC adapter was faulty, and recalled a year ago! At least we were able to get upgraded to the impossible-to-get XB8 modem, so all was not lost.\n\n<img src=\"https://cdn.uploads.micro.blog/97682/2023/1859bad368.png\" width=\"600\" height=\"600\" alt=\"\">\n",
+				"content_text": "Our Comcast cable box has been out for a week. Glad we have Apple TV and the Xfinity streaming App. Turns out the box was fine, but the AC adapter was faulty, and recalled a year ago! At least we were able to get upgraded to the impossible-to-get XB8 modem, so all was not lost.\n\n<img src=\"uploads/2023/1859bad368.png\" width=\"600\" height=\"600\" alt=\"\">\n",
 				"date_published": "2023-02-06T17:50:02-04:00",
 				"url": "https://boles.co/2023/02/06/our-comcast-cable.html"
 			},
@@ -964,7 +996,7 @@
 				"id": "http://boles.micro.blog/2023/02/05/dedication-to-an.html",
 				
 				"content_html": "<p>Dedication to an Art doesn&rsquo;t require public accountability &ndash; Art only demands a passion to continue to study, and grow the Art when nobody else is paying attention but you.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Dedication to an Art doesn't require public accountability -- Art only demands a passion to continue to study, and grow the Art when nobody else is paying attention but you. \n\n<img src=\"https://cdn.uploads.micro.blog/97682/2023/7887456a48.png\" width=\"600\" height=\"600\" alt=\"\">\n",
+				"content_text": "Dedication to an Art doesn't require public accountability -- Art only demands a passion to continue to study, and grow the Art when nobody else is paying attention but you. \n\n<img src=\"uploads/2023/7887456a48.png\" width=\"600\" height=\"600\" alt=\"\">\n",
 				"date_published": "2023-02-05T13:24:42-04:00",
 				"url": "https://boles.co/2023/02/05/dedication-to-an.html"
 			},
@@ -972,7 +1004,7 @@
 				"id": "http://boles.micro.blog/2023/02/04/theres-an-old.html",
 				
 				"content_html": "<p>There&rsquo;s an old rescue saying if your car breaks down in an unfamiliar, isolated area, don&rsquo;t leave the car. Don&rsquo;t try to walk your way out of danger. Stay with the car. &ldquo;We always find the car.&rdquo; The same is true for writing. Don&rsquo;t abandon the vehicle that got you there. #Publish</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "There's an old rescue saying if your car breaks down in an unfamiliar, isolated area, don't leave the car. Don't try to walk your way out of danger. Stay with the car. \"We always find the car.\" The same is true for writing. Don't abandon the vehicle that got you there. #Publish\n\n<img src=\"https://cdn.uploads.micro.blog/97682/2023/a0ccbda759.png\" width=\"600\" height=\"600\" alt=\"\">\n",
+				"content_text": "There's an old rescue saying if your car breaks down in an unfamiliar, isolated area, don't leave the car. Don't try to walk your way out of danger. Stay with the car. \"We always find the car.\" The same is true for writing. Don't abandon the vehicle that got you there. #Publish\n\n<img src=\"uploads/2023/a0ccbda759.png\" width=\"600\" height=\"600\" alt=\"\">\n",
 				"date_published": "2023-02-04T18:23:52-04:00",
 				"url": "https://boles.co/2023/02/04/theres-an-old.html"
 			},
@@ -980,7 +1012,7 @@
 				"id": "http://boles.micro.blog/2023/02/03/we-learn-by.html",
 				
 				"content_html": "<p>We learn by refinement of what we get wrong. Right answers don&rsquo;t always help us know best. When we correct mistakes, we must place the truth above self-interest, and in that dawning awareness comes a realization of the whole that is taller and stronger that what we were.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "We learn by refinement of what we get wrong. Right answers don't always help us know best. When we correct mistakes, we must place the truth above self-interest, and in that dawning awareness comes a realization of the whole that is taller and stronger that what we were.\n\n<img src=\"https://cdn.uploads.micro.blog/97682/2023/ec7093a39a.png\" width=\"600\" height=\"600\" alt=\"\">\n",
+				"content_text": "We learn by refinement of what we get wrong. Right answers don't always help us know best. When we correct mistakes, we must place the truth above self-interest, and in that dawning awareness comes a realization of the whole that is taller and stronger that what we were.\n\n<img src=\"uploads/2023/ec7093a39a.png\" width=\"600\" height=\"600\" alt=\"\">\n",
 				"date_published": "2023-02-03T13:22:18-04:00",
 				"url": "https://boles.co/2023/02/03/we-learn-by.html"
 			},
@@ -988,7 +1020,7 @@
 				"id": "http://boles.micro.blog/2023/02/02/if-you-dont.html",
 				
 				"content_html": "<p>If you don&rsquo;t have any problems, you are not living a human life. Problem solving is the best part of being alive because it means you are actively involved in things that matter. The wasted life is one of quiet disconent, no interaction, and no conflict for nothing gained.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "If you don't have any problems, you are not living a human life. Problem solving is the best part of being alive because it means you are actively involved in things that matter. The wasted life is one of quiet disconent, no interaction, and no conflict for nothing gained.\n\n<img src=\"https://cdn.uploads.micro.blog/97682/2023/8948652a21.png\" width=\"600\" height=\"600\" alt=\"\">\n",
+				"content_text": "If you don't have any problems, you are not living a human life. Problem solving is the best part of being alive because it means you are actively involved in things that matter. The wasted life is one of quiet disconent, no interaction, and no conflict for nothing gained.\n\n<img src=\"uploads/2023/8948652a21.png\" width=\"600\" height=\"600\" alt=\"\">\n",
 				"date_published": "2023-02-02T15:32:06-04:00",
 				"url": "https://boles.co/2023/02/02/if-you-dont.html"
 			},
@@ -996,7 +1028,7 @@
 				"id": "http://boles.micro.blog/2023/02/01/a-vegan-friend.html",
 				
 				"content_html": "<p>A Vegan friend said these Trader Joe&rsquo;s wraps are delicious &ndash; I&rsquo;ll know soon enough, yum! I&rsquo;m always on the lookout for good Vegan stuff from Trader Joe&rsquo;s. If you know of something good there, let me know!</p>\n<p>#Vegan #TraderJoe</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "A Vegan friend said these Trader Joe's wraps are delicious -- I'll know soon enough, yum! I'm always on the lookout for good Vegan stuff from Trader Joe's. If you know of something good there, let me know! \r\n\r\n#Vegan #TraderJoe \n\n<img src=\"https://cdn.uploads.micro.blog/97682/2023/14191b2879.jpg\" width=\"600\" height=\"388\" alt=\"\">\n",
+				"content_text": "A Vegan friend said these Trader Joe's wraps are delicious -- I'll know soon enough, yum! I'm always on the lookout for good Vegan stuff from Trader Joe's. If you know of something good there, let me know! \r\n\r\n#Vegan #TraderJoe \n\n<img src=\"uploads/2023/14191b2879.jpg\" width=\"600\" height=\"388\" alt=\"\">\n",
 				"date_published": "2023-02-01T11:32:33-04:00",
 				"url": "https://boles.co/2023/02/01/a-vegan-friend.html"
 			},
@@ -1004,7 +1036,7 @@
 				"id": "http://boles.micro.blog/2023/01/31/a-cat-within.html",
 				
 				"content_html": "<p>A cat within a cat within a cat within&hellip; OMG! This is the cutest thing I&rsquo;ve seen all day. My &ldquo;Sun God Cats&rdquo; post is being read by another Sun God Cat! So meta. So wonderful. So super Cat-like to take control of the meme from the less deserving! #AI #Cats #SunGod</p>\n<p>(many thanks to my pal, ArtForCats on Post.News for sending me this wonderful image!)</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "A cat within a cat within a cat within... OMG! This is the cutest thing I've seen all day. My \"Sun God Cats\" post is being read by another Sun God Cat! So meta. So wonderful. So super Cat-like to take control of the meme from the less deserving! #AI #Cats #SunGod \n\n(many thanks to my pal, ArtForCats on Post.News for sending me this wonderful image!)\n\n<img src=\"https://cdn.uploads.micro.blog/97682/2023/82294662f7.jpg\" width=\"438\" height=\"600\" alt=\"\">\n",
+				"content_text": "A cat within a cat within a cat within... OMG! This is the cutest thing I've seen all day. My \"Sun God Cats\" post is being read by another Sun God Cat! So meta. So wonderful. So super Cat-like to take control of the meme from the less deserving! #AI #Cats #SunGod \n\n(many thanks to my pal, ArtForCats on Post.News for sending me this wonderful image!)\n\n<img src=\"uploads/2023/82294662f7.jpg\" width=\"438\" height=\"600\" alt=\"\">\n",
 				"date_published": "2023-01-31T15:53:59-04:00",
 				"url": "https://boles.co/2023/01/31/a-cat-within.html"
 			},
@@ -1012,7 +1044,7 @@
 				"id": "http://boles.micro.blog/2023/01/30/learning-enlightens-a.html",
 				
 				"content_html": "<p>Learning enlightens a life. Every day we should learn something new. There are some among us who do not believe in learning. They believe they already know everything. The danger to us is when those of us who don&rsquo;t know are forced to entertain those who only think they know.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Learning enlightens a life. Every day we should learn something new. There are some among us who do not believe in learning. They believe they already know everything. The danger to us is when those of us who don't know are forced to entertain those who only think they know.\n\n<img src=\"https://cdn.uploads.micro.blog/97682/2023/3e5d70845c.png\" width=\"600\" height=\"600\" alt=\"\">\n",
+				"content_text": "Learning enlightens a life. Every day we should learn something new. There are some among us who do not believe in learning. They believe they already know everything. The danger to us is when those of us who don't know are forced to entertain those who only think they know.\n\n<img src=\"uploads/2023/3e5d70845c.png\" width=\"600\" height=\"600\" alt=\"\">\n",
 				"date_published": "2023-01-30T14:25:56-04:00",
 				"url": "https://boles.co/2023/01/30/learning-enlightens-a.html"
 			},
@@ -1020,7 +1052,7 @@
 				"id": "http://boles.micro.blog/2023/01/29/do-scary-things.html",
 				
 				"content_html": "<p>Do scary things. A friend got her ears pierced after years of longing to do it; she was too scared to follow through. After the piercing, she said it wasn&rsquo;t scary at all. Fear stays us all at some point. Face the unknown. Be brave and step forward into the abyss. Do scary things!</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Do scary things. A friend got her ears pierced after years of longing to do it; she was too scared to follow through. After the piercing, she said it wasn't scary at all. Fear stays us all at some point. Face the unknown. Be brave and step forward into the abyss. Do scary things!\n\n<img src=\"https://cdn.uploads.micro.blog/97682/2023/b8e18080b9.png\" width=\"600\" height=\"600\" alt=\"\">\n",
+				"content_text": "Do scary things. A friend got her ears pierced after years of longing to do it; she was too scared to follow through. After the piercing, she said it wasn't scary at all. Fear stays us all at some point. Face the unknown. Be brave and step forward into the abyss. Do scary things!\n\n<img src=\"uploads/2023/b8e18080b9.png\" width=\"600\" height=\"600\" alt=\"\">\n",
 				"date_published": "2023-01-29T15:17:16-04:00",
 				"url": "https://boles.co/2023/01/29/do-scary-things.html"
 			},
@@ -1028,7 +1060,7 @@
 				"id": "http://boles.micro.blog/2023/01/28/the-greatest-gift.html",
 				
 				"content_html": "<p>The greatest gift we give each other is access to the new worlds a book creates. Open the pages, close your expectations, and absorb the wonder! Give a book. Get a book. Steal a book. Write a book. Help someone learn to read. Read to someone who needs a lift out of this world.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "The greatest gift we give each other is access to the new worlds a book creates. Open the pages, close your expectations, and absorb the wonder! Give a book. Get a book. Steal a book. Write a book. Help someone learn to read. Read to someone who needs a lift out of this world.\n\n<img src=\"https://cdn.uploads.micro.blog/97682/2023/f6e5bfa188.png\" width=\"600\" height=\"600\" alt=\"\">\n",
+				"content_text": "The greatest gift we give each other is access to the new worlds a book creates. Open the pages, close your expectations, and absorb the wonder! Give a book. Get a book. Steal a book. Write a book. Help someone learn to read. Read to someone who needs a lift out of this world.\n\n<img src=\"uploads/2023/f6e5bfa188.png\" width=\"600\" height=\"600\" alt=\"\">\n",
 				"date_published": "2023-01-28T14:11:34-04:00",
 				"url": "https://boles.co/2023/01/28/the-greatest-gift.html"
 			},
@@ -1036,7 +1068,7 @@
 				"id": "http://boles.micro.blog/2023/01/27/the-mystery-of.html",
 				
 				"content_html": "<p>The mystery of discovery is what keeps the active imagination alive. There&rsquo;s always a chance. There&rsquo;s always another way. There&rsquo;s always a beginning in an end. In the thought, the purpose. In the dreaming, the determination.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "The mystery of discovery is what keeps the active imagination alive. There's always a chance. There's always another way. There's always a beginning in an end. In the thought, the purpose. In the dreaming, the determination.\n\n<img src=\"https://cdn.uploads.micro.blog/97682/2023/f453fd2af7.png\" width=\"600\" height=\"600\" alt=\"\">\n",
+				"content_text": "The mystery of discovery is what keeps the active imagination alive. There's always a chance. There's always another way. There's always a beginning in an end. In the thought, the purpose. In the dreaming, the determination.\n\n<img src=\"uploads/2023/f453fd2af7.png\" width=\"600\" height=\"600\" alt=\"\">\n",
 				"date_published": "2023-01-27T12:42:36-04:00",
 				"url": "https://boles.co/2023/01/27/the-mystery-of.html"
 			},
@@ -1044,7 +1076,7 @@
 				"id": "http://boles.micro.blog/2023/01/26/night-cascades-on.html",
 				
 				"content_html": "<p>Night cascades on the city proper; wiping away a goodbye sun as storm clouds decant darkness.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Night cascades on the city proper; wiping away a goodbye sun as storm clouds decant darkness.\n\n<img src=\"https://cdn.uploads.micro.blog/97682/2023/567ea7e598.jpg\" width=\"600\" height=\"532\" alt=\"\">\n",
+				"content_text": "Night cascades on the city proper; wiping away a goodbye sun as storm clouds decant darkness.\n\n<img src=\"uploads/2023/567ea7e598.jpg\" width=\"600\" height=\"532\" alt=\"\">\n",
 				"date_published": "2023-01-26T18:32:27-04:00",
 				"url": "https://boles.co/2023/01/26/night-cascades-on.html"
 			},
@@ -1052,7 +1084,7 @@
 				"id": "http://boles.micro.blog/2023/01/26/when-a-banned.html",
 				
 				"content_html": "<p>When a banned monster is welcomed back to terrorize the people again; know it has nothing to do with the monster, and everything to do with what the monster allows others to provoke in his name.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "When a banned monster is welcomed back to terrorize the people again; know it has nothing to do with the monster, and everything to do with what the monster allows others to provoke in his name. \n\n<img src=\"https://cdn.uploads.micro.blog/97682/2023/17cdf34019.png\" width=\"600\" height=\"600\" alt=\"\">\n",
+				"content_text": "When a banned monster is welcomed back to terrorize the people again; know it has nothing to do with the monster, and everything to do with what the monster allows others to provoke in his name. \n\n<img src=\"uploads/2023/17cdf34019.png\" width=\"600\" height=\"600\" alt=\"\">\n",
 				"date_published": "2023-01-26T10:43:01-04:00",
 				"url": "https://boles.co/2023/01/26/when-a-banned.html"
 			},
@@ -1060,7 +1092,7 @@
 				"id": "http://boles.micro.blog/2023/01/25/there-is-one.html",
 				
 				"content_html": "<p>There is one thing that binds us together in the survival of the human condition. It is not sadness, or happiness, or joy, or success. The binder is simply grief. We will all experience it. Grief will belong to each of us, but not exclusively, because our grief must be shared.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "There is one thing that binds us together in the survival of the human condition. It is not sadness, or happiness, or joy, or success. The binder is simply grief. We will all experience it. Grief will belong to each of us, but not exclusively, because our grief must be shared.\n\n<img src=\"https://cdn.uploads.micro.blog/97682/2023/01c3d37789.png\" width=\"600\" height=\"600\" alt=\"\">\n",
+				"content_text": "There is one thing that binds us together in the survival of the human condition. It is not sadness, or happiness, or joy, or success. The binder is simply grief. We will all experience it. Grief will belong to each of us, but not exclusively, because our grief must be shared.\n\n<img src=\"uploads/2023/01c3d37789.png\" width=\"600\" height=\"600\" alt=\"\">\n",
 				"date_published": "2023-01-25T11:35:57-04:00",
 				"url": "https://boles.co/2023/01/25/there-is-one.html"
 			},
@@ -1068,7 +1100,7 @@
 				"id": "http://boles.micro.blog/2023/01/24/the-grand-light.html",
 				
 				"content_html": "<p>The grand light of the day slices darkness, and we become aware in the glow of the promise of a broken horizon.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "The grand light of the day slices darkness, and we become aware in the glow of the promise of a broken horizon. \n\n<img src=\"https://cdn.uploads.micro.blog/97682/2023/fef1b80f87.png\" width=\"600\" height=\"600\" alt=\"\">\n",
+				"content_text": "The grand light of the day slices darkness, and we become aware in the glow of the promise of a broken horizon. \n\n<img src=\"uploads/2023/fef1b80f87.png\" width=\"600\" height=\"600\" alt=\"\">\n",
 				"date_published": "2023-01-24T16:21:21-04:00",
 				"url": "https://boles.co/2023/01/24/the-grand-light.html"
 			},
@@ -1076,7 +1108,7 @@
 				"id": "http://boles.micro.blog/2023/01/23/an-investigation-of.html",
 				
 				"content_html": "<p>An investigation of the mind begins with a thought; and a thought, when closely inspected, dissipates into a dream. Active dreaming become intelligence when slept upon and patterend.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "An investigation of the mind begins with a thought; and a thought, when closely inspected, dissipates into a dream. Active dreaming become intelligence when slept upon and patterend. \n\n<img src=\"https://cdn.uploads.micro.blog/97682/2023/3586f733e6.png\" width=\"600\" height=\"600\" alt=\"\">\n",
+				"content_text": "An investigation of the mind begins with a thought; and a thought, when closely inspected, dissipates into a dream. Active dreaming become intelligence when slept upon and patterend. \n\n<img src=\"uploads/2023/3586f733e6.png\" width=\"600\" height=\"600\" alt=\"\">\n",
 				"date_published": "2023-01-23T10:17:07-04:00",
 				"url": "https://boles.co/2023/01/23/an-investigation-of.html"
 			},
@@ -1084,7 +1116,7 @@
 				"id": "http://boles.micro.blog/2023/01/22/the-perfection-of.html",
 				
 				"content_html": "<p>The perfection of a life is in the discovery of the flaws. Celebrate failure. Forget success.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "The perfection of a life is in the discovery of the flaws. Celebrate failure. Forget success. \n\n<img src=\"https://cdn.uploads.micro.blog/97682/2023/1f9bdb90ed.png\" width=\"600\" height=\"600\" alt=\"\">\n",
+				"content_text": "The perfection of a life is in the discovery of the flaws. Celebrate failure. Forget success. \n\n<img src=\"uploads/2023/1f9bdb90ed.png\" width=\"600\" height=\"600\" alt=\"\">\n",
 				"date_published": "2023-01-22T11:18:30-04:00",
 				"url": "https://boles.co/2023/01/22/the-perfection-of.html"
 			},
@@ -1092,7 +1124,7 @@
 				"id": "http://boles.micro.blog/2023/01/21/we-peer-into.html",
 				
 				"content_html": "<p>We peer into the lonesome night, searching for a sign, asking for a message, seeking proof of life we are still here, that we still matter, that there is more to us than just us.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "We peer into the lonesome night, searching for a sign, asking for a message, seeking proof of life we are still here, that we still matter, that there is more to us than just us. \n\n<img src=\"https://cdn.uploads.micro.blog/97682/2023/81d185df0f.png\" width=\"600\" height=\"600\" alt=\"\">\n",
+				"content_text": "We peer into the lonesome night, searching for a sign, asking for a message, seeking proof of life we are still here, that we still matter, that there is more to us than just us. \n\n<img src=\"uploads/2023/81d185df0f.png\" width=\"600\" height=\"600\" alt=\"\">\n",
 				"date_published": "2023-01-21T11:45:24-04:00",
 				"url": "https://boles.co/2023/01/21/we-peer-into.html"
 			},
@@ -1100,7 +1132,7 @@
 				"id": "http://boles.micro.blog/2023/01/21/contemplation-is-the.html",
 				
 				"content_html": "<p>Contemplation is the matter of us; when our thoughts are disturbed by focused forces against us, we must rise together, and stand up, if we ever hope to sit down again.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Contemplation is the matter of us; when our thoughts are disturbed by focused forces against us, we must rise together, and stand up, if we ever hope to sit down again.\n\n<img src=\"https://cdn.uploads.micro.blog/97682/2023/2889ea12d5.png\" width=\"600\" height=\"600\" alt=\"\">\n",
+				"content_text": "Contemplation is the matter of us; when our thoughts are disturbed by focused forces against us, we must rise together, and stand up, if we ever hope to sit down again.\n\n<img src=\"uploads/2023/2889ea12d5.png\" width=\"600\" height=\"600\" alt=\"\">\n",
 				"date_published": "2023-01-21T10:43:28-04:00",
 				"url": "https://boles.co/2023/01/21/contemplation-is-the.html"
 			},
@@ -1108,7 +1140,7 @@
 				"id": "http://boles.micro.blog/2023/01/20/a-dream-arrives.html",
 				
 				"content_html": "<p>A dream arrives on a whisper in the night and leaves in the terror of first light.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "A dream arrives on a whisper in the night and leaves in the terror of first light.\n\n<img src=\"https://cdn.uploads.micro.blog/97682/2023/75a399097e.png\" width=\"600\" height=\"600\" alt=\"\">\n",
+				"content_text": "A dream arrives on a whisper in the night and leaves in the terror of first light.\n\n<img src=\"uploads/2023/75a399097e.png\" width=\"600\" height=\"600\" alt=\"\">\n",
 				"date_published": "2023-01-20T14:49:09-04:00",
 				"url": "https://boles.co/2023/01/20/a-dream-arrives.html"
 			},
@@ -1116,7 +1148,7 @@
 				"id": "http://boles.micro.blog/2023/01/20/we-sleep-to.html",
 				
 				"content_html": "<p>We sleep to know; we waken to see; we fight to stand; we love to linger.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "We sleep to know; we waken to see; we fight to stand; we love to linger.\n\n<img src=\"https://cdn.uploads.micro.blog/97682/2023/4b6d04bec3.png\" width=\"600\" height=\"600\" alt=\"\">\n",
+				"content_text": "We sleep to know; we waken to see; we fight to stand; we love to linger.\n\n<img src=\"uploads/2023/4b6d04bec3.png\" width=\"600\" height=\"600\" alt=\"\">\n",
 				"date_published": "2023-01-20T10:39:15-04:00",
 				"url": "https://boles.co/2023/01/20/we-sleep-to.html"
 			},
@@ -1124,7 +1156,7 @@
 				"id": "http://boles.micro.blog/2023/01/19/the-divine-right.html",
 				
 				"content_html": "<p>The divine right we all enjoy is the refusal of acquiescence.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "The divine right we all enjoy is the refusal of acquiescence. \n\n<img src=\"https://cdn.uploads.micro.blog/97682/2023/bf9bcaa266.png\" width=\"600\" height=\"600\" alt=\"\">\n",
+				"content_text": "The divine right we all enjoy is the refusal of acquiescence. \n\n<img src=\"uploads/2023/bf9bcaa266.png\" width=\"600\" height=\"600\" alt=\"\">\n",
 				"date_published": "2023-01-19T20:13:02-04:00",
 				"url": "https://boles.co/2023/01/19/the-divine-right.html"
 			},
@@ -1132,7 +1164,7 @@
 				"id": "http://boles.micro.blog/2023/01/19/the-composition-of.html",
 				
 				"content_html": "<p>The composition of a life dangling between moon and earth, stars and the sun, sky and the sea, is one of balance against temptation.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "The composition of a life dangling between moon and earth, stars and the sun, sky and the sea, is one of balance against temptation.\r\n\n\n<img src=\"https://cdn.uploads.micro.blog/97682/2023/69a9be569c.png\" width=\"600\" height=\"600\" alt=\"\">\n",
+				"content_text": "The composition of a life dangling between moon and earth, stars and the sun, sky and the sea, is one of balance against temptation.\r\n\n\n<img src=\"uploads/2023/69a9be569c.png\" width=\"600\" height=\"600\" alt=\"\">\n",
 				"date_published": "2023-01-19T10:40:58-04:00",
 				"url": "https://boles.co/2023/01/19/the-composition-of.html"
 			},
@@ -1140,7 +1172,7 @@
 				"id": "http://boles.micro.blog/2023/01/18/we-live-on.html",
 				
 				"content_html": "<p>We live on a tether. Every day I wonder how we survive in a world that is set against us. Many are one paycheck away from the street. Many are one slipped payment away from losing light and heat. And yet, we survive. And yet, we continue not to quit a world wagered against us.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "We live on a tether. Every day I wonder how we survive in a world that is set against us. Many are one paycheck away from the street. Many are one slipped payment away from losing light and heat. And yet, we survive. And yet, we continue not to quit a world wagered against us.\n\n<img src=\"https://cdn.uploads.micro.blog/97682/2023/df439de136.png\" width=\"600\" height=\"600\" alt=\"\">\n",
+				"content_text": "We live on a tether. Every day I wonder how we survive in a world that is set against us. Many are one paycheck away from the street. Many are one slipped payment away from losing light and heat. And yet, we survive. And yet, we continue not to quit a world wagered against us.\n\n<img src=\"uploads/2023/df439de136.png\" width=\"600\" height=\"600\" alt=\"\">\n",
 				"date_published": "2023-01-18T12:31:14-04:00",
 				"url": "https://boles.co/2023/01/18/we-live-on.html"
 			},
@@ -1148,7 +1180,7 @@
 				"id": "http://boles.micro.blog/2023/01/17/an-apple-a.html",
 				
 				"content_html": "<p>An apple a day keeps the convoy away!</p>\n<p>(overnight test post for Boles.co &ndash; thank you for reading this!)</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "An apple a day keeps the convoy away!\n\n(overnight test post for Boles.co -- thank you for reading this!)\n\n\n\n<img src=\"https://cdn.uploads.micro.blog/97682/2023/76f78550f0.png\" width=\"600\" height=\"600\" alt=\"\">\n",
+				"content_text": "An apple a day keeps the convoy away!\n\n(overnight test post for Boles.co -- thank you for reading this!)\n\n\n\n<img src=\"uploads/2023/76f78550f0.png\" width=\"600\" height=\"600\" alt=\"\">\n",
 				"date_published": "2023-01-17T16:46:45-04:00",
 				"url": "https://boles.co/2023/01/17/an-apple-a.html",
 				"tags": ["Boles"]
@@ -1157,7 +1189,7 @@
 				"id": "http://boles.micro.blog/2023/01/17/twitter-on-the.html",
 				"title": "Twitter on the Vine",
 				"content_html": "<p>Twitter must be clearly on its way to dying.</p>\n<p>The API fiasco will only infuriate all the wrong people.</p>\n<p>Creative people tend to create creative vengeance. I&rsquo;m all here for it.</p>\n<p>I have one Ukrainian friend who had his Twitter account cancelled. He created a new account and had that one cancelled, too. He, of course, hates Putin, but relied on Twitter to sell NFTs to support his family and the war effort. Now he has nothing.</p>\n<p>Another friend, this one a Russian living in exile, had his Twitter account deleted as well. He found a way to get back on Twitter using a different account so he could continue to sell NFTs. He relies on Twitter to support his family by selling NFTs online, and getting the word out about his Art.</p>\n<p>The API is dead. Third party Apps are dead. Is Putin having too much input on Twitter with the removal of Ukrainian citizens and Russians in exile?</p>\n<p>It&rsquo;s all just very curious, and strange, and I&rsquo;m not sure what to think about it all.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Twitter must be clearly on its way to dying.\r\n\r\nThe API fiasco will only infuriate all the wrong people.\r\n\r\nCreative people tend to create creative vengeance. I'm all here for it.\r\n\r\nI have one Ukrainian friend who had his Twitter account cancelled. He created a new account and had that one cancelled, too. He, of course, hates Putin, but relied on Twitter to sell NFTs to support his family and the war effort. Now he has nothing.\r\n\r\nAnother friend, this one a Russian living in exile, had his Twitter account deleted as well. He found a way to get back on Twitter using a different account so he could continue to sell NFTs. He relies on Twitter to support his family by selling NFTs online, and getting the word out about his Art.\r\n\r\nThe API is dead. Third party Apps are dead. Is Putin having too much input on Twitter with the removal of Ukrainian citizens and Russians in exile? \r\n\r\nIt's all just very curious, and strange, and I'm not sure what to think about it all.\n\n<img src=\"https://cdn.uploads.micro.blog/97682/2023/16c27e2668.png\" width=\"600\" height=\"600\" alt=\"\">\n",
+				"content_text": "Twitter must be clearly on its way to dying.\r\n\r\nThe API fiasco will only infuriate all the wrong people.\r\n\r\nCreative people tend to create creative vengeance. I'm all here for it.\r\n\r\nI have one Ukrainian friend who had his Twitter account cancelled. He created a new account and had that one cancelled, too. He, of course, hates Putin, but relied on Twitter to sell NFTs to support his family and the war effort. Now he has nothing.\r\n\r\nAnother friend, this one a Russian living in exile, had his Twitter account deleted as well. He found a way to get back on Twitter using a different account so he could continue to sell NFTs. He relies on Twitter to support his family by selling NFTs online, and getting the word out about his Art.\r\n\r\nThe API is dead. Third party Apps are dead. Is Putin having too much input on Twitter with the removal of Ukrainian citizens and Russians in exile? \r\n\r\nIt's all just very curious, and strange, and I'm not sure what to think about it all.\n\n<img src=\"uploads/2023/16c27e2668.png\" width=\"600\" height=\"600\" alt=\"\">\n",
 				"date_published": "2023-01-17T15:57:43-04:00",
 				"url": "https://boles.co/2023/01/17/twitter-on-the.html",
 				"tags": ["AI","Federation"]
@@ -1166,7 +1198,7 @@
 				"id": "http://boles.micro.blog/2023/01/17/hello-from-bolesco.html",
 				"title": "Boles.co is now LIVE!",
 				"content_html": "<p>Hello from Boles.co &ndash; our new custom domain on micro.blog!</p>\n<p>Be sure to follow us to stay informed about what&rsquo;s new with the business of surviving, and breathing, on the internet in a virtual, artificial, uncanny, life.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Hello from Boles.co -- our new custom domain on micro.blog!\n\nBe sure to follow us to stay informed about what's new with the business of surviving, and breathing, on the internet in a virtual, artificial, uncanny, life.\n\n\n\n<img src=\"https://cdn.uploads.micro.blog/97682/2023/9e09ff7c80.png\" width=\"600\" height=\"600\" alt=\"\">\n",
+				"content_text": "Hello from Boles.co -- our new custom domain on micro.blog!\n\nBe sure to follow us to stay informed about what's new with the business of surviving, and breathing, on the internet in a virtual, artificial, uncanny, life.\n\n\n\n<img src=\"uploads/2023/9e09ff7c80.png\" width=\"600\" height=\"600\" alt=\"\">\n",
 				"date_published": "2023-01-17T11:59:48-04:00",
 				"url": "https://boles.co/2023/01/17/hello-from-bolesco.html",
 				"tags": ["AI"]
@@ -1175,7 +1207,7 @@
 				"id": "http://boles.micro.blog/2023/01/17/hello-world-here.html",
 				"title": "Hello World!",
 				"content_html": "<p>Hello World!</p>\n<p>Here I am on micro.blog.</p>\n<p>Is this a replacement for my BolesBlogs.com hosted Wordpress.com account?</p>\n<p>Time and tide will tell.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Hello World!\n\nHere I am on micro.blog. \n\nIs this a replacement for my BolesBlogs.com hosted Wordpress.com account?\n\nTime and tide will tell.\n\n\n\n<img src=\"https://boles.micro.blog/uploads/2023/de076cf8f0.png\" width=\"600\" height=\"600\" alt=\"\">\n",
+				"content_text": "Hello World!\n\nHere I am on micro.blog. \n\nIs this a replacement for my BolesBlogs.com hosted Wordpress.com account?\n\nTime and tide will tell.\n\n\n\n<img src=\"uploads/2023/de076cf8f0.png\" width=\"600\" height=\"600\" alt=\"\">\n",
 				"date_published": "2023-01-17T09:21:21-04:00",
 				"url": "https://boles.co/2023/01/17/hello-world-here.html",
 				"tags": ["Mastodon","Federation"]
